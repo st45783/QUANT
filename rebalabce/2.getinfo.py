@@ -11,11 +11,47 @@ OUTPUT_FILENAME = "all_stocks_raw_factors.csv"
 
 print("✅ 파이프라인 2단계: 7가지 팩터 원본 데이터 수집을 시작합니다.")
 
+# 📌 수동 제외 티커 리스트
+# 상장폐지 예정, 거래 정지, 기타 위험 종목을 여기에 추가하세요
+# NASDAQ: https://www.nasdaq.com/market-activity/stocks/issuers-pending-suspension-delisting
+# NYSE: https://www.nyse.com/regulation/delistings
+MANUAL_EXCLUDE_TICKERS = set(['AACT', 'AACT U', 'AACT WS', 'DMYY U', 'DMYY', 'DMYY WS', 'VHC', 'ACVA', 'BGFV', 'BCLI', 'IROHR', 'IROHU', 'BASE', 'CGBS', 'CGBSW', 'DALN', 'DBGIW', 'FMTO', 'GOVXW', 'GECCZ', 'HYMCL', 'LSB', 'LSBPW', 'LIPO', 'NERD', 'XAGE', 'XAGEW', 'MODV', 'COOP', 'OUSTW', 'PTPI', 'PEV', 'SYTAW', 'KHC25', 'THTX', 'TCBX', 'TTNP', 'VXRT', 'WLGS', 'ZVSA']
+)
+
+print(f"\n📋 수동 제외 티커 설정")
+if MANUAL_EXCLUDE_TICKERS:
+    print(f"  ⚠️ 제외할 종목 {len(MANUAL_EXCLUDE_TICKERS)}개: {sorted(MANUAL_EXCLUDE_TICKERS)}")
+    print(f"  ✅ 이들 종목은 분석에서 제외됩니다.")
+else:
+    print(f"  ℹ️ 현재 수동 제외 종목이 설정되지 않았습니다.")
+    print(f"  💡 제외가 필요한 경우 MANUAL_EXCLUDE_TICKERS 변수에 티커를 추가하세요.")
+
+delisting_tickers = MANUAL_EXCLUDE_TICKERS
+
 # 1. 저장된 티커 목록을 불러옵니다.
 try:
     tickers_df = pd.read_csv(INPUT_FILENAME)
     tickers = tickers_df['Ticker'].tolist()
-    print(f"'{INPUT_FILENAME}'에서 총 {len(tickers)}개 티커를 불러왔습니다.")
+    print(f"\n'{INPUT_FILENAME}'에서 총 {len(tickers)}개 티커를 불러왔습니다.")
+    
+    # 📌 유효한 티커만 필터링 (문자열이 아닌 값 제거)
+    original_count = len(tickers)
+    tickers = [t for t in tickers if isinstance(t, str) and t.strip()]
+    invalid_count = original_count - len(tickers)
+    if invalid_count > 0:
+        print(f"  ⚠️ 유효하지 않은 티커 {invalid_count}개를 제외했습니다.")
+    
+    # 📌 상장폐지 예정 종목 필터링
+    if delisting_tickers:
+        original_count = len(tickers)
+        tickers = [t for t in tickers if t.upper() not in delisting_tickers]
+        filtered_count = original_count - len(tickers)
+        if filtered_count > 0:
+            print(f"  ⚠️ 상장폐지 예정 종목 {filtered_count}개를 제외했습니다.")
+        print(f"  ✅ 필터링 후 {len(tickers)}개 티커로 진행합니다.")
+    else:
+        print(f"  ✅ {len(tickers)}개 티커로 진행합니다.")
+    
     # # ⚠️ 테스트 시 아래 주석을 풀어 100개만 실행하는 것을 권장합니다.
     # tickers = tickers[:10]
     # print(f"테스트를 위해 {len(tickers)}개로 제한하여 실행합니다.")
