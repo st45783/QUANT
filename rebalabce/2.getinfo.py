@@ -15,7 +15,7 @@ print("✅ 파이프라인 2단계: 7가지 팩터 원본 데이터 수집을 �
 # 상장폐지 예정, 거래 정지, 기타 위험 종목을 여기에 추가하세요
 # NASDAQ: https://www.nasdaq.com/market-activity/stocks/issuers-pending-suspension-delisting
 # NYSE: https://www.nyse.com/regulation/delistings
-MANUAL_EXCLUDE_TICKERS = set(['AACT', 'AACT U', 'AACT WS', 'DMYY U', 'DMYY', 'DMYY WS', 'VHC', 'ACVA', 'BGFV', 'BCLI', 'IROHR', 'IROHU', 'BASE', 'CGBS', 'CGBSW', 'DALN', 'DBGIW', 'FMTO', 'GOVXW', 'GECCZ', 'HYMCL', 'LSB', 'LSBPW', 'LIPO', 'NERD', 'XAGE', 'XAGEW', 'MODV', 'COOP', 'OUSTW', 'PTPI', 'PEV', 'SYTAW', 'KHC25', 'THTX', 'TCBX', 'TTNP', 'VXRT', 'WLGS', 'ZVSA']
+MANUAL_EXCLUDE_TICKERS = set(['AACT', 'AACT U', 'AACT WS', 'DMYY U', 'DMYY', 'DMYY WS', 'VHC', 'ACVA', 'BGFV', 'BCLI', 'IROHR', 'IROHU', 'BASE', 'CGBS', 'CGBSW', 'DALN', 'DBGIW', 'FMTO', 'GOVXW', 'GECCZ', 'HYMCL', 'LSB', 'LSBPW', 'LIPO', 'NERD', 'XAGE', 'XAGEW', 'MODV', 'COOP', 'OUSTW', 'PTPI', 'PEV', 'SYTAW', 'KHC25', 'THTX', 'TCBX', 'TTNP', 'VXRT', 'WLGS', 'ZVSA','VRNA']
 )
 
 print(f"\n📋 수동 제외 티커 설정")
