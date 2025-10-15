@@ -1,5 +1,6 @@
 import os
 import subprocess
+import platform
 import pandas as pd
 from transformers import pipeline
 from edgar import Company, set_identity 
@@ -13,22 +14,28 @@ set_identity("Seungtae Kim st45783@skku.edu")
 # ===================================================================
 # 2. GPU 선택 함수 (기존 코드 유지)
 # ===================================================================
-def select_free_gpu():
-    try:
-        gpu_info_cmd = "nvidia-smi --query-gpu=index,uuid --format=csv,noheader,nounits"
-        result = subprocess.run(gpu_info_cmd.split(), capture_output=True, text=True, check=True)
-        index_to_uuid = {int(index): uuid.strip() for index, uuid in (line.split(', ') for line in result.stdout.strip().split('\n') if line)}
-        busy_apps_cmd = "nvidia-smi --query-compute-apps=gpu_uuid --format=csv,noheader,nounits"
-        result = subprocess.run(busy_apps_cmd.split(), capture_output=True, text=True, check=True)
-        busy_uuids = {line.strip() for line in result.stdout.strip().split('\n') if line}
-        for index, uuid in index_to_uuid.items():
-            if uuid not in busy_uuids:
-                print(f"✅ 실행 중인 프로세스가 없는 GPU {index}번을 선택했습니다.")
-                return str(index)
-        return "0"
-    except Exception:
-        print("✅ GPU 상태 확인 불가. 0번 GPU를 기본으로 선택합니다.")
-        return "0"
+def select_device():
+    # Mac M1/V를 사용하는지 체크
+    if platform.system() == 'Darwin' and 'arm' in platform.machine().lower():
+        print("Mac M1 환경 감지: MPS 사용")
+        return 'mps'
+    else:
+        # 기존 GPU 선택 함수 호출 또는 디폴트 GPU 반환
+        try:
+            gpu_info_cmd = "nvidia-smi --query-gpu=index,uuid --format=csv,noheader,nounits"
+            result = subprocess.run(gpu_info_cmd.split(), capture_output=True, text=True, check=True)
+            index_to_uuid = {int(index): uuid.strip() for index, uuid in (line.split(', ') for line in result.stdout.strip().split('\n') if line)}
+            busy_apps_cmd = "nvidia-smi --query-compute-apps=gpu_uuid --format=csv,noheader,nounits"
+            result = subprocess.run(busy_apps_cmd.split(), capture_output=True, text=True, check=True)
+            busy_uuids = {line.strip() for line in result.stdout.strip().split('\n') if line}
+            for index, uuid in index_to_uuid.items():
+                if uuid not in busy_uuids:
+                    print(f"✅ 실행 중인 프로세스가 없는 GPU {index}번을 선택했습니다.")
+                    return str(index)
+            return "0"
+        except Exception:
+            print("✅ GPU 상태 확인 불가. 0번 GPU를 기본으로 선택합니다.")
+            return "0"
 
 # ===================================================================
 # 3. MD&A 추출 함수 (기존 코드 유지)
@@ -57,8 +64,11 @@ def get_10q_mda_text(ticker):
 # ===================================================================
 # 메인 실행 로직
 # ===================================================================
-selected_gpu = select_free_gpu()
-os.environ["CUDA_VISIBLE_DEVICES"] = selected_gpu
+device_choice = select_device()
+if device_choice == 'mps':
+    os.environ["DEVICE_TYPE"] = "mps"
+else:
+    os.environ["CUDA_VISIBLE_DEVICES"] = device_choice
 
 print("모델을 로딩하는 중입니다...")
 sentiment_analyzer = pipeline("text-classification", model="ProsusAI/finbert", device=0)
