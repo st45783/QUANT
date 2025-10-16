@@ -6,7 +6,7 @@ import random
 from datetime import datetime, timedelta
 
 # --- 설정값 ---
-INPUT_FILENAME = "all_us_tickers.csv"
+INPUT_FILENAME = "filtered_us_ticker.csv"
 OUTPUT_FILENAME = "all_stocks_raw_factors.csv"
 
 print("✅ 파이프라인 2단계: 7가지 팩터 원본 데이터 수집을 시작합니다.")
@@ -15,7 +15,7 @@ print("✅ 파이프라인 2단계: 7가지 팩터 원본 데이터 수집을 �
 # 상장폐지 예정, 거래 정지, 기타 위험 종목을 여기에 추가하세요
 # NASDAQ: https://www.nasdaq.com/market-activity/stocks/issuers-pending-suspension-delisting
 # NYSE: https://www.nyse.com/regulation/delistings
-MANUAL_EXCLUDE_TICKERS = set(['AACT', 'AACT U', 'AACT WS', 'DMYY U', 'DMYY', 'DMYY WS', 'VHC', 'ACVA', 'BGFV', 'BCLI', 'IROHR', 'IROHU', 'BASE', 'CGBS', 'CGBSW', 'DALN', 'DBGIW', 'FMTO', 'GOVXW', 'GECCZ', 'HYMCL', 'LSB', 'LSBPW', 'LIPO', 'NERD', 'XAGE', 'XAGEW', 'MODV', 'COOP', 'OUSTW', 'PTPI', 'PEV', 'SYTAW', 'KHC25', 'THTX', 'TCBX', 'TTNP', 'VXRT', 'WLGS', 'ZVSA','VRNA']
+MANUAL_EXCLUDE_TICKERS = set(['AACT', 'AACT U', 'AACT WS', 'ACVA', 'AVDX', 'BASE', 'BCLI', 'BGFV', 'BINI', 'CARM', 'CGBS', 'CGBSW', 'COOP', 'CSWCZ', 'CURIW', 'DALN', 'DBGIW', 'DMYY', 'DMYY U', 'DMYY WS', 'EPIX', 'ETSY', 'FMTO', 'GECCZ', 'GLADZ', 'GOVXW', 'GSRT', 'GSRTR', 'GSRTU', 'HROWL', 'HROWM', 'HYMCL', 'IROHR', 'IROHU', 'KHC25', 'LIPO', 'LSB', 'LSBPW', 'MGRM', 'MODV', 'NERD', 'OPI', 'OPINL', 'OUSTW', 'PEV', 'PTPI', 'PXSAW', 'SCPH', 'SISI', 'SYTAW', 'TCBX', 'THTX', 'TTNP', 'VHC', 'VNCE', 'VRNA', 'VXRT', 'WLGS', 'XAGE', 'XAGEW', 'ZVSA']
 )
 
 print(f"\n📋 수동 제외 티커 설정")
