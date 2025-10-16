@@ -111,7 +111,7 @@ if tickers:
             # 총자산 증가율 계산
             balance_sheet = stock.balance_sheet
             if len(balance_sheet.columns) > 1 and 'Total Assets' in balance_sheet.index:
-                asset_growth_val = (balance_sheet.loc['Total Assets'][0] - balance_sheet.loc['Total Assets'][1]) / abs(balance_sheet.loc['Total Assets'][1])
+                asset_growth_val = (balance_sheet.loc['Total Assets'].iloc[0] - balance_sheet.loc['Total Assets'].iloc[1]) / abs(balance_sheet.loc['Total Assets'].iloc[1])
             else:
                 asset_growth_val = None # 자산 정보 부족
 
