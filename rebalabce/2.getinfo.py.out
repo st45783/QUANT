@@ -8,7 +8,7 @@
   ⚠️ 상장폐지 예정 종목 5개를 제외했습니다.
   ✅ 필터링 후 4503개 티커로 진행합니다.
 
-✅ 데이터 수집 기간: 2022-11-16 ~ 2025-11-15
+✅ 데이터 수집 기간: 2022-11-23 ~ 2025-11-22
 
 ✅ 각 주식의 팩터 원본 데이터를 수집합니다. (모멘텀/변동성은 1년, 3년 모두 계산)
 [1/4503] 'A' 처리 중...
@@ -16,7 +16,7 @@
 [2/4503] 'AA' 처리 중...
   -> 'AA' 데이터 수집 완료.
 [3/4503] 'AACG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AACG' 데이터 수집 완료.
 [4/4503] 'AAME' 처리 중...
   -> 'AAME' 데이터 수집 완료.
 [5/4503] 'AAMI' 처리 중...
@@ -56,7 +56,7 @@
 [22/4503] 'ABNB' 처리 중...
   -> 'ABNB' 데이터 수집 완료.
 [23/4503] 'ABOS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ABOS' 데이터 수집 완료.
 [24/4503] 'ABR' 처리 중...
   -> 'ABR' 데이터 수집 완료.
 [25/4503] 'ABSI' 처리 중...
@@ -66,7 +66,7 @@
 [27/4503] 'ABTS' 처리 중...
   -> 'ABTS' 데이터 수집 완료.
 [28/4503] 'ABUS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ABUS' 데이터 수집 완료.
 [29/4503] 'ABVC' 처리 중...
   -> 'ABVC' 데이터 수집 완료.
 [30/4503] 'ACA' 처리 중...
@@ -78,7 +78,7 @@
 [33/4503] 'ACCO' 처리 중...
   -> 'ACCO' 데이터 수집 완료.
 [34/4503] 'ACCS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ACCS' 데이터 수집 완료.
 [35/4503] 'ACDC' 처리 중...
   -> 'ACDC' 데이터 수집 완료.
 [36/4503] 'ACEL' 처리 중...
@@ -118,11 +118,11 @@
 [53/4503] 'ACNT' 처리 중...
   -> 'ACNT' 데이터 수집 완료.
 [54/4503] 'ACON' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ACON' 데이터 수집 완료.
 [55/4503] 'ACP' 처리 중...
   -> 'ACP' 데이터 수집 완료.
 [56/4503] 'ACR' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'ACR' 데이터 수집 완료.
 [57/4503] 'ACRE' 처리 중...
   -> 'ACRE' 데이터 수집 완료.
 [58/4503] 'ACRS' 처리 중...
@@ -134,9 +134,9 @@
 [61/4503] 'ACU' 처리 중...
   -> 'ACU' 데이터 수집 완료.
 [62/4503] 'ACXP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ACXP' 데이터 수집 완료.
 [63/4503] 'AD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AD' 데이터 수집 완료.
 [64/4503] 'ADAG' 처리 중...
   -> 'ADAG' 데이터 수집 완료.
 [65/4503] 'ADAM' 처리 중...
@@ -170,7 +170,7 @@
 [79/4503] 'ADTN' 처리 중...
   -> 'ADTN' 데이터 수집 완료.
 [80/4503] 'ADTX' 처리 중...
-  -> 'ADTX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [81/4503] 'ADUS' 처리 중...
   -> 'ADUS' 데이터 수집 완료.
 [82/4503] 'ADV' 처리 중...
@@ -230,11 +230,11 @@
 [109/4503] 'AFRM' 처리 중...
   -> 'AFRM' 데이터 수집 완료.
 [110/4503] 'AFYA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AFYA' 데이터 수집 완료.
 [111/4503] 'AG' 처리 중...
   -> 'AG' 데이터 수집 완료.
 [112/4503] 'AGAE' 처리 중...
-  -> 'AGAE' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [113/4503] 'AGCO' 처리 중...
   -> 'AGCO' 데이터 수집 완료.
 [114/4503] 'AGD' 처리 중...
@@ -268,11 +268,11 @@
 [128/4503] 'AHH' 처리 중...
   -> 'AHH' 데이터 수집 완료.
 [129/4503] 'AI' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'AI' 데이터 수집 완료.
 [130/4503] 'AIG' 처리 중...
   -> 'AIG' 데이터 수집 완료.
 [131/4503] 'AIHS' 처리 중...
-  -> 'AIHS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [132/4503] 'AIMD' 처리 중...
   -> 'AIMD' 데이터 수집 완료.
 [133/4503] 'AIN' 처리 중...
@@ -360,9 +360,9 @@
 [174/4503] 'ALLO' 처리 중...
   -> 'ALLO' 데이터 수집 완료.
 [175/4503] 'ALLR' 처리 중...
-  -> 'ALLR' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [176/4503] 'ALLT' 처리 중...
-  -> 'ALLT' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [177/4503] 'ALLY' 처리 중...
   -> 'ALLY' 데이터 수집 완료.
 [178/4503] 'ALM' 처리 중...
@@ -384,7 +384,7 @@
 [186/4503] 'ALTG' 처리 중...
   -> 'ALTG' 데이터 수집 완료.
 [187/4503] 'ALTI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ALTI' 데이터 수집 완료.
 [188/4503] 'ALTO' 처리 중...
   -> 'ALTO' 데이터 수집 완료.
 [189/4503] 'ALTS' 처리 중...
@@ -394,7 +394,7 @@
 [191/4503] 'ALX' 처리 중...
   -> 'ALX' 데이터 수집 완료.
 [192/4503] 'ALXO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ALXO' 데이터 수집 완료.
 [193/4503] 'ALZN' 처리 중...
   -> 'ALZN' 데이터 수집 완료.
 [194/4503] 'AM' 처리 중...
@@ -452,7 +452,7 @@
 [220/4503] 'AMRN' 처리 중...
   -> 'AMRN' 데이터 수집 완료.
 [221/4503] 'AMS' 처리 중...
-  -> 'AMS' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [222/4503] 'AMSC' 처리 중...
   -> 'AMSC' 데이터 수집 완료.
 [223/4503] 'AMSF' 처리 중...
@@ -470,176 +470,9 @@
 [229/4503] 'AMWL' 처리 중...
   -> 'AMWL' 데이터 수집 완료.
 [230/4503] 'AMX' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AMX' 데이터 수집 완료.
 [231/4503] 'AMZE' 처리 중...
-  -> 'AMZE' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [232/4503] 'AMZN' 처리 중...
   -> 'AMZN' 데이터 수집 완료.
 [233/4503] 'AN' 처리 중...
@@ -657,7 +490,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [239/4503] 'ANGI' 처리 중...
   -> 'ANGI' 데이터 수집 완료.
 [240/4503] 'ANGO' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'ANGO' 데이터 수집 완료.
 [241/4503] 'ANIK' 처리 중...
   -> 'ANIK' 데이터 수집 완료.
 [242/4503] 'ANIP' 처리 중...
@@ -671,7 +504,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [246/4503] 'ANTX' 처리 중...
   -> 'ANTX' 데이터 수집 완료.
 [247/4503] 'ANVS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ANVS' 데이터 수집 완료.
 [248/4503] 'ANY' 처리 중...
   -> 'ANY' 데이터 수집 완료.
 [249/4503] 'AOD' 처리 중...
@@ -727,7 +560,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [274/4503] 'APPS' 처리 중...
   -> 'APPS' 데이터 수집 완료.
 [275/4503] 'APRE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'APRE' 데이터 수집 완료.
 [276/4503] 'APT' 처리 중...
   -> 'APT' 데이터 수집 완료.
 [277/4503] 'APTV' 처리 중...
@@ -735,13 +568,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [278/4503] 'APVO' 처리 중...
   -> 'APVO' 데이터 수집 완료.
 [279/4503] 'APWC' 처리 중...
-  -> 'APWC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [280/4503] 'APYX' 처리 중...
   -> 'APYX' 데이터 수집 완료.
 [281/4503] 'AQB' 처리 중...
   -> 'AQB' 데이터 수집 완료.
 [282/4503] 'AQMS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AQMS' 데이터 수집 완료.
 [283/4503] 'AQN' 처리 중...
   -> 'AQN' 데이터 수집 완료.
 [284/4503] 'AR' 처리 중...
@@ -749,7 +582,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [285/4503] 'ARAY' 처리 중...
   -> 'ARAY' 데이터 수집 완료.
 [286/4503] 'ARBE' 처리 중...
-  -> 'ARBE' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [287/4503] 'ARCB' 처리 중...
   -> 'ARCB' 데이터 수집 완료.
 [288/4503] 'ARCC' 처리 중...
@@ -801,7 +634,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [311/4503] 'ARRY' 처리 중...
   -> 'ARRY' 데이터 수집 완료.
 [312/4503] 'ARTL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ARTL' 데이터 수집 완료.
 [313/4503] 'ARTNA' 처리 중...
   -> 'ARTNA' 데이터 수집 완료.
 [314/4503] 'ARTW' 처리 중...
@@ -833,7 +666,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [327/4503] 'ASM' 처리 중...
   -> 'ASM' 데이터 수집 완료.
 [328/4503] 'ASMB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ASMB' 데이터 수집 완료.
 [329/4503] 'ASML' 처리 중...
   -> 'ASML' 데이터 수집 완료.
 [330/4503] 'ASNS' 처리 중...
@@ -845,7 +678,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [333/4503] 'ASR' 처리 중...
   -> 'ASR' 데이터 수집 완료.
 [334/4503] 'ASRT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ASRT' 데이터 수집 완료.
 [335/4503] 'ASRV' 처리 중...
   -> 'ASRV' 데이터 수집 완료.
 [336/4503] 'ASTC' 처리 중...
@@ -855,7 +688,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [338/4503] 'ASTH' 처리 중...
   -> 'ASTH' 데이터 수집 완료.
 [339/4503] 'ASTI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ASTI' 데이터 수집 완료.
 [340/4503] 'ASTS' 처리 중...
   -> 'ASTS' 데이터 수집 완료.
 [341/4503] 'ASUR' 처리 중...
@@ -865,7 +698,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [343/4503] 'ASYS' 처리 중...
   -> 'ASYS' 데이터 수집 완료.
 [344/4503] 'ATAI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ATAI' 데이터 수집 완료.
 [345/4503] 'ATEC' 처리 중...
   -> 'ATEC' 데이터 수집 완료.
 [346/4503] 'ATEN' 처리 중...
@@ -885,178 +718,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [353/4503] 'ATI' 처리 중...
   -> 'ATI' 데이터 수집 완료.
 [354/4503] 'ATKR' 처리 중...
-  -> 'ATKR' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [355/4503] 'ATLC' 처리 중...
   -> 'ATLC' 데이터 수집 완료.
 [356/4503] 'ATLO' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ATLO' 데이터 수집 완료.
 [357/4503] 'ATLX' 처리 중...
   -> 'ATLX' 데이터 수집 완료.
 [358/4503] 'ATNI' 처리 중...
@@ -1070,7 +736,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [362/4503] 'ATON' 처리 중...
   -> 'ATON' 데이터 수집 완료.
 [363/4503] 'ATOS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ATOS' 데이터 수집 완료.
 [364/4503] 'ATR' 처리 중...
   -> 'ATR' 데이터 수집 완료.
 [365/4503] 'ATRC' 처리 중...
@@ -1080,7 +746,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [367/4503] 'ATS' 처리 중...
   -> 'ATS' 데이터 수집 완료.
 [368/4503] 'ATXG' 처리 중...
-  -> 'ATXG' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [369/4503] 'ATXS' 처리 중...
   -> 'ATXS' 데이터 수집 완료.
 [370/4503] 'ATYR' 처리 중...
@@ -1100,11 +766,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [377/4503] 'AUR' 처리 중...
   -> 'AUR' 데이터 수집 완료.
 [378/4503] 'AURA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AURA' 데이터 수집 완료.
 [379/4503] 'AUST' 처리 중...
   -> 'AUST' 데이터 수집 완료.
 [380/4503] 'AUTL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AUTL' 데이터 수집 완료.
 [381/4503] 'AUUD' 처리 중...
   -> 'AUUD' 데이터 수집 완료.
 [382/4503] 'AVA' 처리 중...
@@ -1154,7 +820,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [404/4503] 'AWRE' 처리 중...
   -> 'AWRE' 데이터 수집 완료.
 [405/4503] 'AWX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'AWX' 데이터 수집 완료.
 [406/4503] 'AX' 처리 중...
   -> 'AX' 데이터 수집 완료.
 [407/4503] 'AXGN' 처리 중...
@@ -1236,7 +902,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [445/4503] 'BBDC' 처리 중...
   -> 'BBDC' 데이터 수집 완료.
 [446/4503] 'BBGI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BBGI' 데이터 수집 완료.
 [447/4503] 'BBLG' 처리 중...
   -> 'BBLG' 데이터 수집 완료.
 [448/4503] 'BBSI' 처리 중...
@@ -1254,7 +920,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [454/4503] 'BC' 처리 중...
   -> 'BC' 데이터 수집 완료.
 [455/4503] 'BCAB' 처리 중...
-  -> 'BCAB' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [456/4503] 'BCAL' 처리 중...
   -> 'BCAL' 데이터 수집 완료.
 [457/4503] 'BCBP' 처리 중...
@@ -1268,7 +934,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [461/4503] 'BCIC' 처리 중...
   -> 'BCIC' 데이터 수집 완료.
 [462/4503] 'BCML' 처리 중...
-  -> 'BCML' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'BCML' 데이터 수집 완료.
 [463/4503] 'BCO' 처리 중...
   -> 'BCO' 데이터 수집 완료.
 [464/4503] 'BCPC' 처리 중...
@@ -1276,7 +942,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [465/4503] 'BCS' 처리 중...
   -> 'BCS' 데이터 수집 완료.
 [466/4503] 'BCSF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BCSF' 데이터 수집 완료.
 [467/4503] 'BCTX' 처리 중...
   -> 'BCTX' 데이터 수집 완료.
 [468/4503] 'BCV' 처리 중...
@@ -1318,13 +984,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [486/4503] 'BEN' 처리 중...
   -> 'BEN' 데이터 수집 완료.
 [487/4503] 'BENF' 처리 중...
-  -> 'BENF' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [488/4503] 'BEP' 처리 중...
   -> 'BEP' 데이터 수집 완료.
 [489/4503] 'BEPC' 처리 중...
   -> 'BEPC' 데이터 수집 완료.
 [490/4503] 'BETR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BETR' 데이터 수집 완료.
 [491/4503] 'BF-A' 처리 중...
   -> 'BF-A' 데이터 수집 완료.
 [492/4503] 'BF-B' 처리 중...
@@ -1334,9 +1000,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [494/4503] 'BFC' 처리 중...
   -> 'BFC' 데이터 수집 완료.
 [495/4503] 'BFH' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'BFH' 데이터 수집 완료.
 [496/4503] 'BFIN' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'BFIN' 데이터 수집 완료.
 [497/4503] 'BFLY' 처리 중...
   -> 'BFLY' 데이터 수집 완료.
 [498/4503] 'BFRI' 처리 중...
@@ -1352,11 +1018,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [503/4503] 'BGC' 처리 중...
   -> 'BGC' 데이터 수집 완료.
 [504/4503] 'BGLC' 처리 중...
-  -> 'BGLC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [505/4503] 'BGM' 처리 중...
   -> 'BGM' 데이터 수집 완료.
 [506/4503] 'BGMS' 처리 중...
-  -> 'BGMS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [507/4503] 'BGR' 처리 중...
   -> 'BGR' 데이터 수집 완료.
 [508/4503] 'BGS' 처리 중...
@@ -1394,7 +1060,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [524/4503] 'BHVN' 처리 중...
   -> 'BHVN' 데이터 수집 완료.
 [525/4503] 'BIAF' 처리 중...
-  -> 'BIAF' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [526/4503] 'BIDU' 처리 중...
   -> 'BIDU' 데이터 수집 완료.
 [527/4503] 'BIIB' 처리 중...
@@ -1406,7 +1072,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [530/4503] 'BIO' 처리 중...
   -> 'BIO' 데이터 수집 완료.
 [531/4503] 'BIOX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BIOX' 데이터 수집 완료.
 [532/4503] 'BIP' 처리 중...
   -> 'BIP' 데이터 수집 완료.
 [533/4503] 'BIPC' 처리 중...
@@ -1416,11 +1082,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [535/4503] 'BITF' 처리 중...
   -> 'BITF' 데이터 수집 완료.
 [536/4503] 'BIVI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BIVI' 데이터 수집 완료.
 [537/4503] 'BJ' 처리 중...
   -> 'BJ' 데이터 수집 완료.
 [538/4503] 'BJDX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BJDX' 데이터 수집 완료.
 [539/4503] 'BJRI' 처리 중...
   -> 'BJRI' 데이터 수집 완료.
 [540/4503] 'BK' 처리 중...
@@ -1464,7 +1130,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [559/4503] 'BLE' 처리 중...
   -> 'BLE' 데이터 수집 완료.
 [560/4503] 'BLFS' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'BLFS' 데이터 수집 완료.
 [561/4503] 'BLFY' 처리 중...
   -> 'BLFY' 데이터 수집 완료.
 [562/4503] 'BLIN' 처리 중...
@@ -1482,7 +1148,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [568/4503] 'BLRX' 처리 중...
   -> 'BLRX' 데이터 수집 완료.
 [569/4503] 'BLTE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BLTE' 데이터 수집 완료.
 [570/4503] 'BLW' 처리 중...
   -> 'BLW' 데이터 수집 완료.
 [571/4503] 'BLX' 처리 중...
@@ -1510,7 +1176,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [582/4503] 'BMY' 처리 중...
   -> 'BMY' 데이터 수집 완료.
 [583/4503] 'BN' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BN' 데이터 수집 완료.
 [584/4503] 'BNAI' 처리 중...
   -> 'BNAI' 데이터 수집 완료.
 [585/4503] 'BNED' 처리 중...
@@ -1520,7 +1186,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [587/4503] 'BNL' 처리 중...
   -> 'BNL' 데이터 수집 완료.
 [588/4503] 'BNR' 처리 중...
-  -> 'BNR' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [589/4503] 'BNS' 처리 중...
   -> 'BNS' 데이터 수집 완료.
 [590/4503] 'BNT' 처리 중...
@@ -1534,7 +1200,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [594/4503] 'BOC' 처리 중...
   -> 'BOC' 데이터 수집 완료.
 [595/4503] 'BODI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BODI' 데이터 수집 완료.
 [596/4503] 'BOE' 처리 중...
   -> 'BOE' 데이터 수집 완료.
 [597/4503] 'BOH' 처리 중...
@@ -1572,11 +1238,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [613/4503] 'BRBS' 처리 중...
   -> 'BRBS' 데이터 수집 완료.
 [614/4503] 'BRC' 처리 중...
-  -> 'BRC' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'BRC' 데이터 수집 완료.
 [615/4503] 'BRCC' 처리 중...
   -> 'BRCC' 데이터 수집 완료.
 [616/4503] 'BRFH' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BRFH' 데이터 수집 완료.
 [617/4503] 'BRID' 처리 중...
   -> 'BRID' 데이터 수집 완료.
 [618/4503] 'BRK-A' 처리 중...
@@ -1586,13 +1252,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [620/4503] 'BRKR' 처리 중...
   -> 'BRKR' 데이터 수집 완료.
 [621/4503] 'BRLS' 처리 중...
-  -> 'BRLS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [622/4503] 'BRLT' 처리 중...
   -> 'BRLT' 데이터 수집 완료.
 [623/4503] 'BRN' 처리 중...
   -> 'BRN' 데이터 수집 완료.
 [624/4503] 'BRNS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BRNS' 데이터 수집 완료.
 [625/4503] 'BRO' 처리 중...
   -> 'BRO' 데이터 수집 완료.
 [626/4503] 'BROS' 처리 중...
@@ -1644,7 +1310,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [649/4503] 'BTCS' 처리 중...
   -> 'BTCS' 데이터 수집 완료.
 [650/4503] 'BTCT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BTCT' 데이터 수집 완료.
 [651/4503] 'BTDR' 처리 중...
   -> 'BTDR' 데이터 수집 완료.
 [652/4503] 'BTE' 처리 중...
@@ -1714,7 +1380,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [684/4503] 'BXP' 처리 중...
   -> 'BXP' 데이터 수집 완료.
 [685/4503] 'BXSL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'BXSL' 데이터 수집 완료.
 [686/4503] 'BY' 처리 중...
   -> 'BY' 데이터 수집 완료.
 [687/4503] 'BYD' 처리 중...
@@ -1738,9 +1404,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [696/4503] 'CAAP' 처리 중...
   -> 'CAAP' 데이터 수집 완료.
 [697/4503] 'CAAS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CAAS' 데이터 수집 완료.
 [698/4503] 'CABA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CABA' 데이터 수집 완료.
 [699/4503] 'CABO' 처리 중...
   -> 'CABO' 데이터 수집 완료.
 [700/4503] 'CAC' 처리 중...
@@ -1752,7 +1418,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [703/4503] 'CADE' 처리 중...
   -> 'CADE' 데이터 수집 완료.
 [704/4503] 'CADL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CADL' 데이터 수집 완료.
 [705/4503] 'CAE' 처리 중...
   -> 'CAE' 데이터 수집 완료.
 [706/4503] 'CAG' 처리 중...
@@ -1766,9 +1432,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [710/4503] 'CALX' 처리 중...
   -> 'CALX' 데이터 수집 완료.
 [711/4503] 'CAMT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CAMT' 데이터 수집 완료.
 [712/4503] 'CAN' 처리 중...
-  -> 'CAN' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [713/4503] 'CANF' 처리 중...
   -> 'CANF' 데이터 수집 완료.
 [714/4503] 'CANG' 처리 중...
@@ -1794,7 +1460,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [724/4503] 'CAT' 처리 중...
   -> 'CAT' 데이터 수집 완료.
 [725/4503] 'CATO' 처리 중...
-  -> 'CATO' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [726/4503] 'CATX' 처리 중...
   -> 'CATX' 데이터 수집 완료.
 [727/4503] 'CATY' 처리 중...
@@ -1804,7 +1470,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [729/4503] 'CBAN' 처리 중...
   -> 'CBAN' 데이터 수집 완료.
 [730/4503] 'CBAT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CBAT' 데이터 수집 완료.
 [731/4503] 'CBFV' 처리 중...
   -> 'CBFV' 데이터 수집 완료.
 [732/4503] 'CBL' 처리 중...
@@ -1888,7 +1554,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [771/4503] 'CDXS' 처리 중...
   -> 'CDXS' 데이터 수집 완료.
 [772/4503] 'CDZI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CDZI' 데이터 수집 완료.
 [773/4503] 'CE' 처리 중...
   -> 'CE' 데이터 수집 완료.
 [774/4503] 'CECO' 처리 중...
@@ -1896,7 +1562,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [775/4503] 'CEE' 처리 중...
   -> 'CEE' 데이터 수집 완료.
 [776/4503] 'CEF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CEF' 데이터 수집 완료.
 [777/4503] 'CEG' 처리 중...
   -> 'CEG' 데이터 수집 완료.
 [778/4503] 'CELC' 처리 중...
@@ -1906,7 +1572,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [780/4503] 'CELU' 처리 중...
   -> 'CELU' 데이터 수집 완료.
 [781/4503] 'CELZ' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CELZ' 데이터 수집 완료.
 [782/4503] 'CENN' 처리 중...
   -> 'CENN' 데이터 수집 완료.
 [783/4503] 'CENT' 처리 중...
@@ -1956,7 +1622,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [805/4503] 'CGEM' 처리 중...
   -> 'CGEM' 데이터 수집 완료.
 [806/4503] 'CGEN' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CGEN' 데이터 수집 완료.
 [807/4503] 'CGNT' 처리 중...
   -> 'CGNT' 데이터 수집 완료.
 [808/4503] 'CGNX' 처리 중...
@@ -1982,7 +1648,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [818/4503] 'CHEK' 처리 중...
   -> 'CHEK' 데이터 수집 완료.
 [819/4503] 'CHGG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CHGG' 데이터 수집 완료.
 [820/4503] 'CHI' 처리 중...
   -> 'CHI' 데이터 수집 완료.
 [821/4503] 'CHKP' 처리 중...
@@ -2046,7 +1712,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [850/4503] 'CIO' 처리 중...
   -> 'CIO' 데이터 수집 완료.
 [851/4503] 'CION' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CION' 데이터 수집 완료.
 [852/4503] 'CISO' 처리 중...
   -> 'CISO' 데이터 수집 완료.
 [853/4503] 'CIVB' 처리 중...
@@ -2056,7 +1722,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [855/4503] 'CIX' 처리 중...
   -> 'CIX' 데이터 수집 완료.
 [856/4503] 'CKX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CKX' 데이터 수집 완료.
 [857/4503] 'CL' 처리 중...
   -> 'CL' 데이터 수집 완료.
 [858/4503] 'CLAR' 처리 중...
@@ -2082,7 +1748,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [868/4503] 'CLIR' 처리 중...
   -> 'CLIR' 데이터 수집 완료.
 [869/4503] 'CLLS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CLLS' 데이터 수집 완료.
 [870/4503] 'CLM' 처리 중...
   -> 'CLM' 데이터 수집 완료.
 [871/4503] 'CLMB' 처리 중...
@@ -2098,7 +1764,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [876/4503] 'CLRB' 처리 중...
   -> 'CLRB' 데이터 수집 완료.
 [877/4503] 'CLRO' 처리 중...
-  -> 'CLRO' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [878/4503] 'CLS' 처리 중...
   -> 'CLS' 데이터 수집 완료.
 [879/4503] 'CLSK' 처리 중...
@@ -2134,7 +1800,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [894/4503] 'CMCSA' 처리 중...
   -> 'CMCSA' 데이터 수집 완료.
 [895/4503] 'CMCT' 처리 중...
-  -> 'CMCT' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [896/4503] 'CME' 처리 중...
   -> 'CME' 데이터 수집 완료.
 [897/4503] 'CMG' 처리 중...
@@ -2142,7 +1808,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [898/4503] 'CMI' 처리 중...
   -> 'CMI' 데이터 수집 완료.
 [899/4503] 'CMMB' 처리 중...
-  -> 'CMMB' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [900/4503] 'CMP' 처리 중...
   -> 'CMP' 데이터 수집 완료.
 [901/4503] 'CMPS' 처리 중...
@@ -2160,7 +1826,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [907/4503] 'CMTG' 처리 중...
   -> 'CMTG' 데이터 수집 완료.
 [908/4503] 'CMTL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CMTL' 데이터 수집 완료.
 [909/4503] 'CMU' 처리 중...
   -> 'CMU' 데이터 수집 완료.
 [910/4503] 'CNA' 처리 중...
@@ -2168,7 +1834,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [911/4503] 'CNC' 처리 중...
   -> 'CNC' 데이터 수집 완료.
 [912/4503] 'CNCK' 처리 중...
-  -> 'CNCK' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [913/4503] 'CNDT' 처리 중...
   -> 'CNDT' 데이터 수집 완료.
 [914/4503] 'CNET' 처리 중...
@@ -2198,7 +1864,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [926/4503] 'CNOB' 처리 중...
   -> 'CNOB' 데이터 수집 완료.
 [927/4503] 'CNP' 처리 중...
-  -> 'CNP' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'CNP' 데이터 수집 완료.
 [928/4503] 'CNQ' 처리 중...
   -> 'CNQ' 데이터 수집 완료.
 [929/4503] 'CNR' 처리 중...
@@ -2210,11 +1876,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [932/4503] 'CNTA' 처리 중...
   -> 'CNTA' 데이터 수집 완료.
 [933/4503] 'CNTB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CNTB' 데이터 수집 완료.
 [934/4503] 'CNTX' 처리 중...
   -> 'CNTX' 데이터 수집 완료.
 [935/4503] 'CNTY' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CNTY' 데이터 수집 완료.
 [936/4503] 'CNVS' 처리 중...
   -> 'CNVS' 데이터 수집 완료.
 [937/4503] 'CNX' 처리 중...
@@ -2226,7 +1892,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [940/4503] 'COCO' 처리 중...
   -> 'COCO' 데이터 수집 완료.
 [941/4503] 'COCP' 처리 중...
-  -> 'COCP' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [942/4503] 'CODA' 처리 중...
   -> 'CODA' 데이터 수집 완료.
 [943/4503] 'CODI' 처리 중...
@@ -2294,9 +1960,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [974/4503] 'CPF' 처리 중...
   -> 'CPF' 데이터 수집 완료.
 [975/4503] 'CPHC' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'CPHC' 데이터 수집 완료.
 [976/4503] 'CPHI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CPHI' 데이터 수집 완료.
 [977/4503] 'CPIX' 처리 중...
   -> 'CPIX' 데이터 수집 완료.
 [978/4503] 'CPK' 처리 중...
@@ -2304,7 +1970,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [979/4503] 'CPNG' 처리 중...
   -> 'CPNG' 데이터 수집 완료.
 [980/4503] 'CPOP' 처리 중...
-  -> 'CPOP' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [981/4503] 'CPRI' 처리 중...
   -> 'CPRI' 데이터 수집 완료.
 [982/4503] 'CPRT' 처리 중...
@@ -2322,7 +1988,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [988/4503] 'CRBG' 처리 중...
   -> 'CRBG' 데이터 수집 완료.
 [989/4503] 'CRBP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CRBP' 데이터 수집 완료.
 [990/4503] 'CRBU' 처리 중...
   -> 'CRBU' 데이터 수집 완료.
 [991/4503] 'CRC' 처리 중...
@@ -2342,13 +2008,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [998/4503] 'CREG' 처리 중...
   -> 'CREG' 데이터 수집 완료.
 [999/4503] 'CRESY' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CRESY' 데이터 수집 완료.
 [1000/4503] 'CREX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CREX' 데이터 수집 완료.
 [1001/4503] 'CRF' 처리 중...
   -> 'CRF' 데이터 수집 완료.
 [1002/4503] 'CRGO' 처리 중...
-  -> 'CRGO' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1003/4503] 'CRGY' 처리 중...
   -> 'CRGY' 데이터 수집 완료.
 [1004/4503] 'CRH' 처리 중...
@@ -2370,7 +2036,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1012/4503] 'CRNC' 처리 중...
   -> 'CRNC' 데이터 수집 완료.
 [1013/4503] 'CRNT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CRNT' 데이터 수집 완료.
 [1014/4503] 'CRNX' 처리 중...
   -> 'CRNX' 데이터 수집 완료.
 [1015/4503] 'CRON' 처리 중...
@@ -2392,13 +2058,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1023/4503] 'CRVL' 처리 중...
   -> 'CRVL' 데이터 수집 완료.
 [1024/4503] 'CRVO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CRVO' 데이터 수집 완료.
 [1025/4503] 'CRVS' 처리 중...
   -> 'CRVS' 데이터 수집 완료.
 [1026/4503] 'CRWD' 처리 중...
   -> 'CRWD' 데이터 수집 완료.
 [1027/4503] 'CRWS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CRWS' 데이터 수집 완료.
 [1028/4503] 'CSAN' 처리 중...
   -> 'CSAN' 데이터 수집 완료.
 [1029/4503] 'CSBR' 처리 중...
@@ -2420,13 +2086,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1037/4503] 'CSR' 처리 중...
   -> 'CSR' 데이터 수집 완료.
 [1038/4503] 'CSTE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CSTE' 데이터 수집 완료.
 [1039/4503] 'CSTL' 처리 중...
   -> 'CSTL' 데이터 수집 완료.
 [1040/4503] 'CSTM' 처리 중...
   -> 'CSTM' 데이터 수집 완료.
 [1041/4503] 'CSV' 처리 중...
-  -> 'CSV' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'CSV' 데이터 수집 완료.
 [1042/4503] 'CSW' 처리 중...
   -> 'CSW' 데이터 수집 완료.
 [1043/4503] 'CSWC' 처리 중...
@@ -2444,7 +2110,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1049/4503] 'CTLP' 처리 중...
   -> 'CTLP' 데이터 수집 완료.
 [1050/4503] 'CTM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'CTM' 데이터 수집 완료.
 [1051/4503] 'CTMX' 처리 중...
   -> 'CTMX' 데이터 수집 완료.
 [1052/4503] 'CTO' 처리 중...
@@ -2600,7 +2266,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1127/4503] 'DB' 처리 중...
   -> 'DB' 데이터 수집 완료.
 [1128/4503] 'DBGI' 처리 중...
-  -> 'DBGI' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1129/4503] 'DBI' 처리 중...
   -> 'DBI' 데이터 수집 완료.
 [1130/4503] 'DBRG' 처리 중...
@@ -2628,11 +2294,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1141/4503] 'DDI' 처리 중...
   -> 'DDI' 데이터 수집 완료.
 [1142/4503] 'DDL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DDL' 데이터 수집 완료.
 [1143/4503] 'DDOG' 처리 중...
   -> 'DDOG' 데이터 수집 완료.
 [1144/4503] 'DDS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DDS' 데이터 수집 완료.
 [1145/4503] 'DE' 처리 중...
   -> 'DE' 데이터 수집 완료.
 [1146/4503] 'DEA' 처리 중...
@@ -2658,7 +2324,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1156/4503] 'DGII' 처리 중...
   -> 'DGII' 데이터 수집 완료.
 [1157/4503] 'DGLY' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DGLY' 데이터 수집 완료.
 [1158/4503] 'DGX' 처리 중...
   -> 'DGX' 데이터 수집 완료.
 [1159/4503] 'DGXX' 처리 중...
@@ -2678,21 +2344,21 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1166/4503] 'DHT' 처리 중...
   -> 'DHT' 데이터 수집 완료.
 [1167/4503] 'DHX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DHX' 데이터 수집 완료.
 [1168/4503] 'DHY' 처리 중...
   -> 'DHY' 데이터 수집 완료.
 [1169/4503] 'DIAX' 처리 중...
   -> 'DIAX' 데이터 수집 완료.
 [1170/4503] 'DIBS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DIBS' 데이터 수집 완료.
 [1171/4503] 'DINO' 처리 중...
   -> 'DINO' 데이터 수집 완료.
 [1172/4503] 'DIOD' 처리 중...
   -> 'DIOD' 데이터 수집 완료.
 [1173/4503] 'DIS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DIS' 데이터 수집 완료.
 [1174/4503] 'DIT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DIT' 데이터 수집 완료.
 [1175/4503] 'DJCO' 처리 중...
   -> 'DJCO' 데이터 수집 완료.
 [1176/4503] 'DJT' 처리 중...
@@ -2756,7 +2422,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1205/4503] 'DOLE' 처리 중...
   -> 'DOLE' 데이터 수집 완료.
 [1206/4503] 'DOMH' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'DOMH' 데이터 수집 완료.
 [1207/4503] 'DOOO' 처리 중...
   -> 'DOOO' 데이터 수집 완료.
 [1208/4503] 'DORM' 처리 중...
@@ -2770,7 +2436,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1212/4503] 'DOX' 처리 중...
   -> 'DOX' 데이터 수집 완료.
 [1213/4503] 'DOYU' 처리 중...
-  -> 'DOYU' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1214/4503] 'DPRO' 처리 중...
   -> 'DPRO' 데이터 수집 완료.
 [1215/4503] 'DQ' 처리 중...
@@ -2784,7 +2450,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1219/4503] 'DRIO' 처리 중...
   -> 'DRIO' 데이터 수집 완료.
 [1220/4503] 'DRMA' 처리 중...
-  -> 'DRMA' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1221/4503] 'DRS' 처리 중...
   -> 'DRS' 데이터 수집 완료.
 [1222/4503] 'DRTS' 처리 중...
@@ -2804,13 +2470,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1229/4503] 'DSP' 처리 중...
   -> 'DSP' 데이터 수집 완료.
 [1230/4503] 'DSS' 처리 중...
-  -> 'DSS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1231/4503] 'DSU' 처리 중...
   -> 'DSU' 데이터 수집 완료.
 [1232/4503] 'DSWL' 처리 중...
   -> 'DSWL' 데이터 수집 완료.
 [1233/4503] 'DSX' 처리 중...
-  -> 'DSX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1234/4503] 'DT' 처리 중...
   -> 'DT' 데이터 수집 완료.
 [1235/4503] 'DTE' 처리 중...
@@ -2826,7 +2492,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1240/4503] 'DTSS' 처리 중...
   -> 'DTSS' 데이터 수집 완료.
 [1241/4503] 'DTST' 처리 중...
-  -> 'DTST' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1242/4503] 'DUK' 처리 중...
   -> 'DUK' 데이터 수집 완료.
 [1243/4503] 'DUOL' 처리 중...
@@ -2848,7 +2514,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1251/4503] 'DWSN' 처리 중...
   -> 'DWSN' 데이터 수집 완료.
 [1252/4503] 'DWTX' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'DWTX' 데이터 수집 완료.
 [1253/4503] 'DX' 처리 중...
   -> 'DX' 데이터 수집 완료.
 [1254/4503] 'DXC' 처리 중...
@@ -2874,7 +2540,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1264/4503] 'EAD' 처리 중...
   -> 'EAD' 데이터 수집 완료.
 [1265/4503] 'EARN' 처리 중...
-  -> 'EARN' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'EARN' 데이터 수집 완료.
 [1266/4503] 'EAT' 처리 중...
   -> 'EAT' 데이터 수집 완료.
 [1267/4503] 'EB' 처리 중...
@@ -2940,7 +2606,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1297/4503] 'EFC' 처리 중...
   -> 'EFC' 데이터 수집 완료.
 [1298/4503] 'EFOI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'EFOI' 데이터 수집 완료.
 [1299/4503] 'EFSC' 처리 중...
   -> 'EFSC' 데이터 수집 완료.
 [1300/4503] 'EFSI' 처리 중...
@@ -3006,7 +2672,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1330/4503] 'ELME' 처리 중...
   -> 'ELME' 데이터 수집 완료.
 [1331/4503] 'ELP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ELP' 데이터 수집 완료.
 [1332/4503] 'ELS' 처리 중...
   -> 'ELS' 데이터 수집 완료.
 [1333/4503] 'ELSE' 처리 중...
@@ -3014,7 +2680,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1334/4503] 'ELTK' 처리 중...
   -> 'ELTK' 데이터 수집 완료.
 [1335/4503] 'ELTX' 처리 중...
-  -> 'ELTX' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [1336/4503] 'ELV' 처리 중...
   -> 'ELV' 데이터 수집 완료.
 [1337/4503] 'ELVA' 처리 중...
@@ -3034,15 +2700,15 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1344/4503] 'EMN' 처리 중...
   -> 'EMN' 데이터 수집 완료.
 [1345/4503] 'EMPD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'EMPD' 데이터 수집 완료.
 [1346/4503] 'EMR' 처리 중...
   -> 'EMR' 데이터 수집 완료.
 [1347/4503] 'EMX' 처리 중...
-  -> 'EMX' 데이터 수집 완료.
+  -> 주가 데이터가 3년 미만이라 제외합니다.
 [1348/4503] 'ENB' 처리 중...
   -> 'ENB' 데이터 수집 완료.
 [1349/4503] 'ENFY' 처리 중...
-  -> 'ENFY' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1350/4503] 'ENGN' 처리 중...
   -> 'ENGN' 데이터 수집 완료.
 [1351/4503] 'ENIC' 처리 중...
@@ -3068,11 +2734,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1361/4503] 'ENTO' 처리 중...
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1362/4503] 'ENTX' 처리 중...
-  -> 'ENTX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1363/4503] 'ENVA' 처리 중...
   -> 'ENVA' 데이터 수집 완료.
 [1364/4503] 'ENVB' 처리 중...
-  -> 'ENVB' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1365/4503] 'ENVX' 처리 중...
   -> 'ENVX' 데이터 수집 완료.
 [1366/4503] 'ENX' 처리 중...
@@ -3084,7 +2750,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1369/4503] 'EOLS' 처리 중...
   -> 일부 팩터 값이 누락되어 제외합니다.
 [1370/4503] 'EONR' 처리 중...
-  -> 'EONR' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1371/4503] 'EOS' 처리 중...
   -> 'EOS' 데이터 수집 완료.
 [1372/4503] 'EP' 처리 중...
@@ -3094,7 +2760,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1374/4503] 'EPAM' 처리 중...
   -> 'EPAM' 데이터 수집 완료.
 [1375/4503] 'EPC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'EPC' 데이터 수집 완료.
 [1376/4503] 'EPD' 처리 중...
   -> 'EPD' 데이터 수집 완료.
 [1377/4503] 'EPM' 처리 중...
@@ -3120,7 +2786,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1387/4503] 'EQR' 처리 중...
   -> 'EQR' 데이터 수집 완료.
 [1388/4503] 'EQS' 처리 중...
-  -> 'EQS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1389/4503] 'EQT' 처리 중...
   -> 'EQT' 데이터 수집 완료.
 [1390/4503] 'EQX' 처리 중...
@@ -3160,174 +2826,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1407/4503] 'ESNT' 처리 중...
   -> 'ESNT' 데이터 수집 완료.
 [1408/4503] 'ESOA' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ESOA' 데이터 수집 완료.
 [1409/4503] 'ESP' 처리 중...
   -> 'ESP' 데이터 수집 완료.
 [1410/4503] 'ESQ' 처리 중...
@@ -3349,7 +2848,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1418/4503] 'ETG' 처리 중...
   -> 'ETG' 데이터 수집 완료.
 [1419/4503] 'ETHZ' 처리 중...
-  -> 'ETHZ' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1420/4503] 'ETN' 처리 중...
   -> 'ETN' 데이터 수집 완료.
 [1421/4503] 'ETNB' 처리 중...
@@ -3409,7 +2908,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1448/4503] 'EVTC' 처리 중...
   -> 'EVTC' 데이터 수집 완료.
 [1449/4503] 'EVTV' 처리 중...
-  -> 'EVTV' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1450/4503] 'EVV' 처리 중...
   -> 'EVV' 데이터 수집 완료.
 [1451/4503] 'EW' 처리 중...
@@ -3435,7 +2934,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1461/4503] 'EXLS' 처리 중...
   -> 'EXLS' 데이터 수집 완료.
 [1462/4503] 'EXOD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'EXOD' 데이터 수집 완료.
 [1463/4503] 'EXP' 처리 중...
   -> 'EXP' 데이터 수집 완료.
 [1464/4503] 'EXPD' 처리 중...
@@ -3473,13 +2972,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1480/4503] 'FAST' 처리 중...
   -> 'FAST' 데이터 수집 완료.
 [1481/4503] 'FATE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FATE' 데이터 수집 완료.
 [1482/4503] 'FAX' 처리 중...
   -> 'FAX' 데이터 수집 완료.
 [1483/4503] 'FBIN' 처리 중...
   -> 'FBIN' 데이터 수집 완료.
 [1484/4503] 'FBIO' 처리 중...
-  -> 'FBIO' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1485/4503] 'FBIZ' 처리 중...
   -> 'FBIZ' 데이터 수집 완료.
 [1486/4503] 'FBK' 처리 중...
@@ -3491,7 +2990,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1489/4503] 'FBRT' 처리 중...
   -> 'FBRT' 데이터 수집 완료.
 [1490/4503] 'FBRX' 처리 중...
-  -> 'FBRX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1491/4503] 'FC' 처리 중...
   -> 'FC' 데이터 수집 완료.
 [1492/4503] 'FCAP' 처리 중...
@@ -3517,7 +3016,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1502/4503] 'FCT' 처리 중...
   -> 'FCT' 데이터 수집 완료.
 [1503/4503] 'FCUV' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FCUV' 데이터 수집 완료.
 [1504/4503] 'FCX' 처리 중...
   -> 'FCX' 데이터 수집 완료.
 [1505/4503] 'FDBC' 처리 중...
@@ -3529,7 +3028,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1508/4503] 'FDS' 처리 중...
   -> 'FDS' 데이터 수집 완료.
 [1509/4503] 'FDUS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FDUS' 데이터 수집 완료.
 [1510/4503] 'FDX' 처리 중...
   -> 'FDX' 데이터 수집 완료.
 [1511/4503] 'FE' 처리 중...
@@ -3545,7 +3044,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1516/4503] 'FEMY' 처리 중...
   -> 'FEMY' 데이터 수집 완료.
 [1517/4503] 'FENG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FENG' 데이터 수집 완료.
 [1518/4503] 'FER' 처리 중...
   -> 'FER' 데이터 수집 완료.
 [1519/4503] 'FERG' 처리 중...
@@ -3575,7 +3074,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1531/4503] 'FGI' 처리 중...
   -> 'FGI' 데이터 수집 완료.
 [1532/4503] 'FGNX' 처리 중...
-  -> 'FGNX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1533/4503] 'FHB' 처리 중...
   -> 'FHB' 데이터 수집 완료.
 [1534/4503] 'FHI' 처리 중...
@@ -3587,7 +3086,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1537/4503] 'FIBK' 처리 중...
   -> 'FIBK' 데이터 수집 완료.
 [1538/4503] 'FIEE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FIEE' 데이터 수집 완료.
 [1539/4503] 'FIGS' 처리 중...
   -> 'FIGS' 데이터 수집 완료.
 [1540/4503] 'FINS' 처리 중...
@@ -3617,7 +3116,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1552/4503] 'FLC' 처리 중...
   -> 'FLC' 데이터 수집 완료.
 [1553/4503] 'FLD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FLD' 데이터 수집 완료.
 [1554/4503] 'FLEX' 처리 중...
   -> 'FLEX' 데이터 수집 완료.
 [1555/4503] 'FLG' 처리 중...
@@ -3659,7 +3158,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1573/4503] 'FMNB' 처리 중...
   -> 'FMNB' 데이터 수집 완료.
 [1574/4503] 'FMS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FMS' 데이터 수집 완료.
 [1575/4503] 'FMX' 처리 중...
   -> 'FMX' 데이터 수집 완료.
 [1576/4503] 'FMY' 처리 중...
@@ -3689,11 +3188,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1588/4503] 'FOLD' 처리 중...
   -> 'FOLD' 데이터 수집 완료.
 [1589/4503] 'FONR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FONR' 데이터 수집 완료.
 [1590/4503] 'FOR' 처리 중...
   -> 'FOR' 데이터 수집 완료.
 [1591/4503] 'FORA' 처리 중...
-  -> 'FORA' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1592/4503] 'FORD' 처리 중...
   -> 'FORD' 데이터 수집 완료.
 [1593/4503] 'FORM' 처리 중...
@@ -3701,7 +3200,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1594/4503] 'FORR' 처리 중...
   -> 'FORR' 데이터 수집 완료.
 [1595/4503] 'FORTY' 처리 중...
-  -> 'FORTY' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1596/4503] 'FOSL' 처리 중...
   -> 'FOSL' 데이터 수집 완료.
 [1597/4503] 'FOUR' 처리 중...
@@ -3731,174 +3230,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1609/4503] 'FRGE' 처리 중...
   -> 'FRGE' 데이터 수집 완료.
 [1610/4503] 'FRGT' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FRGT' 데이터 수집 완료.
 [1611/4503] 'FRHC' 처리 중...
   -> 'FRHC' 데이터 수집 완료.
 [1612/4503] 'FRME' 처리 중...
@@ -3928,7 +3260,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1624/4503] 'FSFG' 처리 중...
   -> 'FSFG' 데이터 수집 완료.
 [1625/4503] 'FSI' 처리 중...
-  -> 'FSI' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1626/4503] 'FSK' 처리 중...
   -> 'FSK' 데이터 수집 완료.
 [1627/4503] 'FSLR' 처리 중...
@@ -3952,7 +3284,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1636/4503] 'FTAI' 처리 중...
   -> 'FTAI' 데이터 수집 완료.
 [1637/4503] 'FTCI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FTCI' 데이터 수집 완료.
 [1638/4503] 'FTDR' 처리 중...
   -> 'FTDR' 데이터 수집 완료.
 [1639/4503] 'FTEK' 처리 중...
@@ -3960,15 +3292,15 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1640/4503] 'FTF' 처리 중...
   -> 'FTF' 데이터 수집 완료.
 [1641/4503] 'FTFT' 처리 중...
-  -> 'FTFT' 데이터 수집 완료.
-[1642/4503] 'FTHM' 처리 중...
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+[1642/4503] 'FTHM' 처리 중...
+  -> 'FTHM' 데이터 수집 완료.
 [1643/4503] 'FTI' 처리 중...
   -> 'FTI' 데이터 수집 완료.
 [1644/4503] 'FTK' 처리 중...
   -> 'FTK' 데이터 수집 완료.
 [1645/4503] 'FTLF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FTLF' 데이터 수집 완료.
 [1646/4503] 'FTNT' 처리 중...
   -> 'FTNT' 데이터 수집 완료.
 [1647/4503] 'FTS' 처리 중...
@@ -3978,7 +3310,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1649/4503] 'FUBO' 처리 중...
   -> 'FUBO' 데이터 수집 완료.
 [1650/4503] 'FUFU' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'FUFU' 데이터 수집 완료.
 [1651/4503] 'FUL' 처리 중...
   -> 'FUL' 데이터 수집 완료.
 [1652/4503] 'FULC' 처리 중...
@@ -4026,7 +3358,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1673/4503] 'GAM' 처리 중...
   -> 'GAM' 데이터 수집 완료.
 [1674/4503] 'GAMB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GAMB' 데이터 수집 완료.
 [1675/4503] 'GAME' 처리 중...
   -> 'GAME' 데이터 수집 완료.
 [1676/4503] 'GANX' 처리 중...
@@ -4042,13 +3374,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1681/4503] 'GBCI' 처리 중...
   -> 'GBCI' 데이터 수집 완료.
 [1682/4503] 'GBDC' 처리 중...
-  -> 'GBDC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1683/4503] 'GBIO' 처리 중...
   -> 'GBIO' 데이터 수집 완료.
 [1684/4503] 'GBLI' 처리 중...
   -> 'GBLI' 데이터 수집 완료.
 [1685/4503] 'GBR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GBR' 데이터 수집 완료.
 [1686/4503] 'GBTG' 처리 중...
   -> 'GBTG' 데이터 수집 완료.
 [1687/4503] 'GBX' 처리 중...
@@ -4064,7 +3396,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1692/4503] 'GCT' 처리 중...
   -> 'GCT' 데이터 수집 완료.
 [1693/4503] 'GCTK' 처리 중...
-  -> 'GCTK' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [1694/4503] 'GD' 처리 중...
   -> 'GD' 데이터 수집 완료.
 [1695/4503] 'GDC' 처리 중...
@@ -4134,7 +3466,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1727/4503] 'GGN' 처리 중...
   -> 'GGN' 데이터 수집 완료.
 [1728/4503] 'GGR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GGR' 데이터 수집 완료.
 [1729/4503] 'GGT' 처리 중...
   -> 'GGT' 데이터 수집 완료.
 [1730/4503] 'GHC' 처리 중...
@@ -4148,7 +3480,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1734/4503] 'GHM' 처리 중...
   -> 'GHM' 데이터 수집 완료.
 [1735/4503] 'GHRS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GHRS' 데이터 수집 완료.
 [1736/4503] 'GIB' 처리 중...
   -> 'GIB' 데이터 수집 완료.
 [1737/4503] 'GIC' 처리 중...
@@ -4156,7 +3488,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1738/4503] 'GIFI' 처리 중...
   -> 'GIFI' 데이터 수집 완료.
 [1739/4503] 'GIFT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GIFT' 데이터 수집 완료.
 [1740/4503] 'GIGM' 처리 중...
   -> 'GIGM' 데이터 수집 완료.
 [1741/4503] 'GIII' 처리 중...
@@ -4166,9 +3498,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1743/4503] 'GILD' 처리 중...
   -> 'GILD' 데이터 수집 완료.
 [1744/4503] 'GILT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GILT' 데이터 수집 완료.
 [1745/4503] 'GIPR' 처리 중...
-  -> 'GIPR' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1746/4503] 'GIS' 처리 중...
   -> 'GIS' 데이터 수집 완료.
 [1747/4503] 'GKOS' 처리 중...
@@ -4176,7 +3508,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1748/4503] 'GL' 처리 중...
   -> 'GL' 데이터 수집 완료.
 [1749/4503] 'GLAD' 처리 중...
-  -> 'GLAD' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1750/4503] 'GLBE' 처리 중...
   -> 'GLBE' 데이터 수집 완료.
 [1751/4503] 'GLBS' 처리 중...
@@ -4188,182 +3520,15 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1754/4503] 'GLDG' 처리 중...
   -> 'GLDG' 데이터 수집 완료.
 [1755/4503] 'GLMD' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'GLMD' 데이터 수집 완료.
 [1756/4503] 'GLNG' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GLNG' 데이터 수집 완료.
 [1757/4503] 'GLO' 처리 중...
   -> 'GLO' 데이터 수집 완료.
 [1758/4503] 'GLOB' 처리 중...
   -> 'GLOB' 데이터 수집 완료.
 [1759/4503] 'GLP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GLP' 데이터 수집 완료.
 [1760/4503] 'GLPG' 처리 중...
   -> 'GLPG' 데이터 수집 완료.
 [1761/4503] 'GLPI' 처리 중...
@@ -4375,7 +3540,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1764/4503] 'GLSI' 처리 중...
   -> 'GLSI' 데이터 수집 완료.
 [1765/4503] 'GLTO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GLTO' 데이터 수집 완료.
 [1766/4503] 'GLU' 처리 중...
   -> 'GLU' 데이터 수집 완료.
 [1767/4503] 'GLUE' 처리 중...
@@ -4405,7 +3570,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1779/4503] 'GNLN' 처리 중...
   -> 'GNLN' 데이터 수집 완료.
 [1780/4503] 'GNPX' 처리 중...
-  -> 'GNPX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1781/4503] 'GNRC' 처리 중...
   -> 'GNRC' 데이터 수집 완료.
 [1782/4503] 'GNS' 처리 중...
@@ -4421,7 +3586,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1787/4503] 'GO' 처리 중...
   -> 'GO' 데이터 수집 완료.
 [1788/4503] 'GOCO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GOCO' 데이터 수집 완료.
 [1789/4503] 'GOGO' 처리 중...
   -> 'GOGO' 데이터 수집 완료.
 [1790/4503] 'GOLF' 처리 중...
@@ -4445,7 +3610,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1799/4503] 'GOVX' 처리 중...
   -> 'GOVX' 데이터 수집 완료.
 [1800/4503] 'GP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [1801/4503] 'GPC' 처리 중...
   -> 'GPC' 데이터 수집 완료.
 [1802/4503] 'GPI' 처리 중...
@@ -4465,7 +3630,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1809/4503] 'GPRO' 처리 중...
   -> 'GPRO' 데이터 수집 완료.
 [1810/4503] 'GPUS' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1811/4503] 'GRAB' 처리 중...
   -> 'GRAB' 데이터 수집 완료.
 [1812/4503] 'GRBK' 처리 중...
@@ -4479,7 +3644,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1816/4503] 'GRFS' 처리 중...
   -> 'GRFS' 데이터 수집 완료.
 [1817/4503] 'GRI' 처리 중...
-  -> 'GRI' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1818/4503] 'GRMN' 처리 중...
   -> 'GRMN' 데이터 수집 완료.
 [1819/4503] 'GRND' 처리 중...
@@ -4489,15 +3654,15 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1821/4503] 'GRNT' 처리 중...
   -> 'GRNT' 데이터 수집 완료.
 [1822/4503] 'GROV' 처리 중...
-  -> 'GROV' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'GROV' 데이터 수집 완료.
 [1823/4503] 'GROW' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GROW' 데이터 수집 완료.
 [1824/4503] 'GROY' 처리 중...
   -> 'GROY' 데이터 수집 완료.
 [1825/4503] 'GRPN' 처리 중...
   -> 일부 팩터 값이 누락되어 제외합니다.
 [1826/4503] 'GRRR' 처리 중...
-  -> 'GRRR' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1827/4503] 'GRVY' 처리 중...
   -> 'GRVY' 데이터 수집 완료.
 [1828/4503] 'GRWG' 처리 중...
@@ -4509,13 +3674,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1831/4503] 'GSBC' 처리 중...
   -> 'GSBC' 데이터 수집 완료.
 [1832/4503] 'GSBD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GSBD' 데이터 수집 완료.
 [1833/4503] 'GSIT' 처리 중...
   -> 'GSIT' 데이터 수집 완료.
 [1834/4503] 'GSK' 처리 중...
   -> 'GSK' 데이터 수집 완료.
 [1835/4503] 'GSL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GSL' 데이터 수집 완료.
 [1836/4503] 'GSM' 처리 중...
   -> 'GSM' 데이터 수집 완료.
 [1837/4503] 'GT' 처리 중...
@@ -4525,7 +3690,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1839/4503] 'GTE' 처리 중...
   -> 'GTE' 데이터 수집 완료.
 [1840/4503] 'GTEC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'GTEC' 데이터 수집 완료.
 [1841/4503] 'GTES' 처리 중...
   -> 'GTES' 데이터 수집 완료.
 [1842/4503] 'GTIM' 처리 중...
@@ -4541,7 +3706,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1847/4503] 'GTY' 처리 중...
   -> 'GTY' 데이터 수집 완료.
 [1848/4503] 'GURE' 처리 중...
-  -> 'GURE' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1849/4503] 'GUT' 처리 중...
   -> 'GUT' 데이터 수집 완료.
 [1850/4503] 'GV' 처리 중...
@@ -4567,8 +3732,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [1860/4503] 'HAFC' 처리 중...
   -> 'HAFC' 데이터 수집 완료.
 [1861/4503] 'HAIN' 처리 중...
-Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
-  -> 'HAIN' 처리 중 오류 발생: argument of type 'NoneType' is not iterable
+  -> 'HAIN' 데이터 수집 완료.
 [1862/4503] 'HAL' 처리 중...
   -> 'HAL' 데이터 수집 완료.
 [1863/4503] 'HALO' 처리 중...
@@ -4644,7 +3808,7 @@ Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.htm
 [1898/4503] 'HHH' 처리 중...
   -> 'HHH' 데이터 수집 완료.
 [1899/4503] 'HHS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'HHS' 데이터 수집 완료.
 [1900/4503] 'HI' 처리 중...
   -> 'HI' 데이터 수집 완료.
 [1901/4503] 'HIFS' 처리 중...
@@ -4666,7 +3830,7 @@ Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.htm
 [1909/4503] 'HITI' 처리 중...
   -> 'HITI' 데이터 수집 완료.
 [1910/4503] 'HIVE' 처리 중...
-  -> 'HIVE' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [1911/4503] 'HIW' 처리 중...
   -> 'HIW' 데이터 수집 완료.
 [1912/4503] 'HIX' 처리 중...
@@ -4720,7 +3884,7 @@ Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.htm
 [1936/4503] 'HON' 처리 중...
   -> 'HON' 데이터 수집 완료.
 [1937/4503] 'HONE' 처리 중...
-  -> 'HONE' 데이터 수집 완료.
+  -> 주가 데이터가 3년 미만이라 제외합니다.
 [1938/4503] 'HOOD' 처리 중...
   -> 'HOOD' 데이터 수집 완료.
 [1939/4503] 'HOPE' 처리 중...
@@ -4728,7 +3892,7 @@ Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.htm
 [1940/4503] 'HOTH' 처리 중...
   -> 'HOTH' 데이터 수집 완료.
 [1941/4503] 'HOUR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'HOUR' 데이터 수집 완료.
 [1942/4503] 'HOUS' 처리 중...
   -> 'HOUS' 데이터 수집 완료.
 [1943/4503] 'HOV' 처리 중...
@@ -4846,7 +4010,7 @@ Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.htm
 [1999/4503] 'HY' 처리 중...
   -> 'HY' 데이터 수집 완료.
 [2000/4503] 'HYFM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'HYFM' 데이터 수집 완료.
 [2001/4503] 'HYFT' 처리 중...
   -> 'HYFT' 데이터 수집 완료.
 [2002/4503] 'HYLN' 처리 중...
@@ -4890,7 +4054,7 @@ Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.htm
 [2021/4503] 'ICCC' 처리 중...
   -> 'ICCC' 데이터 수집 완료.
 [2022/4503] 'ICCM' 처리 중...
-  -> 'ICCM' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2023/4503] 'ICE' 처리 중...
   -> 'ICE' 데이터 수집 완료.
 [2024/4503] 'ICFI' 처리 중...
@@ -4938,353 +4102,19 @@ Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.htm
 [2045/4503] 'IFS' 처리 중...
   -> 'IFS' 데이터 수집 완료.
 [2046/4503] 'IGA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IGA' 데이터 수집 완료.
 [2047/4503] 'IGC' 처리 중...
-  -> 'IGC' 데이터 수집 완료.
-[2048/4503] 'IGD' 처리 중...
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+[2048/4503] 'IGD' 처리 중...
+  -> 'IGD' 데이터 수집 완료.
 [2049/4503] 'IGIC' 처리 중...
   -> 'IGIC' 데이터 수집 완료.
 [2050/4503] 'IGR' 처리 중...
   -> 'IGR' 데이터 수집 완료.
 [2051/4503] 'IH' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IH' 데이터 수집 완료.
 [2052/4503] 'IHT' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IHT' 데이터 수집 완료.
 [2053/4503] 'IIF' 처리 중...
   -> 'IIF' 데이터 수집 완료.
 [2054/4503] 'III' 처리 중...
@@ -5294,7 +4124,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2056/4503] 'IIIV' 처리 중...
   -> 'IIIV' 데이터 수집 완료.
 [2057/4503] 'IIM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IIM' 데이터 수집 완료.
 [2058/4503] 'IIPR' 처리 중...
   -> 'IIPR' 데이터 수집 완료.
 [2059/4503] 'IKT' 처리 중...
@@ -5314,7 +4144,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2066/4503] 'IMCR' 처리 중...
   -> 'IMCR' 데이터 수집 완료.
 [2067/4503] 'IMDX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IMDX' 데이터 수집 완료.
 [2068/4503] 'IMG' 처리 중...
   -> 'IMG' 데이터 수집 완료.
 [2069/4503] 'IMKTA' 처리 중...
@@ -5324,7 +4154,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2071/4503] 'IMMR' 처리 중...
   -> 'IMMR' 데이터 수집 완료.
 [2072/4503] 'IMMX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IMMX' 데이터 수집 완료.
 [2073/4503] 'IMNM' 처리 중...
   -> 'IMNM' 데이터 수집 완료.
 [2074/4503] 'IMNN' 처리 중...
@@ -5332,7 +4162,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2075/4503] 'IMO' 처리 중...
   -> 'IMO' 데이터 수집 완료.
 [2076/4503] 'IMOS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IMOS' 데이터 수집 완료.
 [2077/4503] 'IMPP' 처리 중...
   -> 'IMPP' 데이터 수집 완료.
 [2078/4503] 'IMRN' 처리 중...
@@ -5342,186 +4172,19 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2080/4503] 'IMTE' 처리 중...
   -> 'IMTE' 데이터 수집 완료.
 [2081/4503] 'IMTX' 처리 중...
-  -> 'IMTX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2082/4503] 'IMUX' 처리 중...
   -> 'IMUX' 데이터 수집 완료.
 [2083/4503] 'IMVT' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IMVT' 데이터 수집 완료.
 [2084/4503] 'IMXI' 처리 중...
   -> 'IMXI' 데이터 수집 완료.
 [2085/4503] 'INAB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INAB' 데이터 수집 완료.
 [2086/4503] 'INBK' 처리 중...
   -> 'INBK' 데이터 수집 완료.
 [2087/4503] 'INBS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INBS' 데이터 수집 완료.
 [2088/4503] 'INCR' 처리 중...
   -> 'INCR' 데이터 수집 완료.
 [2089/4503] 'INCY' 처리 중...
@@ -5533,7 +4196,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2092/4503] 'INDO' 처리 중...
   -> 'INDO' 데이터 수집 완료.
 [2093/4503] 'INDP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INDP' 데이터 수집 완료.
 [2094/4503] 'INFA' 처리 중...
   -> 'INFA' 데이터 수집 완료.
 [2095/4503] 'INFU' 처리 중...
@@ -5541,174 +4204,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2096/4503] 'INFY' 처리 중...
   -> 'INFY' 데이터 수집 완료.
 [2097/4503] 'INGN' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INGN' 데이터 수집 완료.
 [2098/4503] 'INGR' 처리 중...
   -> 'INGR' 데이터 수집 완료.
 [2099/4503] 'INLX' 처리 중...
@@ -5724,7 +4220,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2104/4503] 'INNV' 처리 중...
   -> 'INNV' 데이터 수집 완료.
 [2105/4503] 'INO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INO' 데이터 수집 완료.
 [2106/4503] 'INOD' 처리 중...
   -> 'INOD' 데이터 수집 완료.
 [2107/4503] 'INSM' 처리 중...
@@ -5744,7 +4240,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2114/4503] 'INTU' 처리 중...
   -> 'INTU' 데이터 수집 완료.
 [2115/4503] 'INTZ' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INTZ' 데이터 수집 완료.
 [2116/4503] 'INUV' 처리 중...
   -> 'INUV' 데이터 수집 완료.
 [2117/4503] 'INV' 처리 중...
@@ -5752,13 +4248,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2118/4503] 'INVA' 처리 중...
   -> 'INVA' 데이터 수집 완료.
 [2119/4503] 'INVE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INVE' 데이터 수집 완료.
 [2120/4503] 'INVH' 처리 중...
   -> 'INVH' 데이터 수집 완료.
 [2121/4503] 'INVZ' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'INVZ' 데이터 수집 완료.
 [2122/4503] 'IOBT' 처리 중...
-  -> 'IOBT' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2123/4503] 'IONQ' 처리 중...
   -> 'IONQ' 데이터 수집 완료.
 [2124/4503] 'IONR' 처리 중...
@@ -5798,9 +4294,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2141/4503] 'IQ' 처리 중...
   -> 'IQ' 데이터 수집 완료.
 [2142/4503] 'IQI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IQI' 데이터 수집 완료.
 [2143/4503] 'IQST' 처리 중...
-  -> 'IQST' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2144/4503] 'IQV' 처리 중...
   -> 'IQV' 데이터 수집 완료.
 [2145/4503] 'IR' 처리 중...
@@ -5808,13 +4304,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2146/4503] 'IRBT' 처리 중...
   -> 'IRBT' 데이터 수집 완료.
 [2147/4503] 'IRD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IRD' 데이터 수집 완료.
 [2148/4503] 'IRDM' 처리 중...
   -> 'IRDM' 데이터 수집 완료.
 [2149/4503] 'IREN' 처리 중...
   -> 'IREN' 데이터 수집 완료.
 [2150/4503] 'IRIX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IRIX' 데이터 수집 완료.
 [2151/4503] 'IRMD' 처리 중...
   -> 'IRMD' 데이터 수집 완료.
 [2152/4503] 'IRON' 처리 중...
@@ -5822,7 +4318,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2153/4503] 'IROQ' 처리 중...
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2154/4503] 'IRS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IRS' 데이터 수집 완료.
 [2155/4503] 'IRT' 처리 중...
   -> 'IRT' 데이터 수집 완료.
 [2156/4503] 'IRTC' 처리 중...
@@ -5860,174 +4356,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2172/4503] 'ITW' 처리 중...
   -> 'ITW' 데이터 수집 완료.
 [2173/4503] 'IVDA' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'IVDA' 데이터 수집 완료.
 [2174/4503] 'IVR' 처리 중...
   -> 'IVR' 데이터 수집 완료.
 [2175/4503] 'IVT' 처리 중...
@@ -6039,11 +4368,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2178/4503] 'IX' 처리 중...
   -> 'IX' 데이터 수집 완료.
 [2179/4503] 'IXHL' 처리 중...
-  -> 'IXHL' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2180/4503] 'IZEA' 처리 중...
   -> 'IZEA' 데이터 수집 완료.
 [2181/4503] 'J' 처리 중...
-  -> 'J' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2182/4503] 'JAGX' 처리 중...
   -> 'JAGX' 데이터 수집 완료.
 [2183/4503] 'JAKK' 처리 중...
@@ -6105,11 +4434,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2211/4503] 'JKHY' 처리 중...
   -> 'JKHY' 데이터 수집 완료.
 [2212/4503] 'JKS' 처리 중...
-  -> 'JKS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2213/4503] 'JLL' 처리 중...
   -> 'JLL' 데이터 수집 완료.
 [2214/4503] 'JMIA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'JMIA' 데이터 수집 완료.
 [2215/4503] 'JMM' 처리 중...
   -> 'JMM' 데이터 수집 완료.
 [2216/4503] 'JMSB' 처리 중...
@@ -6137,11 +4466,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2227/4503] 'JRS' 처리 중...
   -> 'JRS' 데이터 수집 완료.
 [2228/4503] 'JRSH' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'JRSH' 데이터 수집 완료.
 [2229/4503] 'JRVR' 처리 중...
   -> 'JRVR' 데이터 수집 완료.
 [2230/4503] 'JSPR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'JSPR' 데이터 수집 완료.
 [2231/4503] 'JTAI' 처리 중...
   -> 'JTAI' 데이터 수집 완료.
 [2232/4503] 'JVA' 처리 중...
@@ -6163,7 +4492,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2240/4503] 'KAI' 처리 중...
   -> 'KAI' 데이터 수집 완료.
 [2241/4503] 'KALA' 처리 중...
-  -> 'KALA' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2242/4503] 'KALU' 처리 중...
   -> 'KALU' 데이터 수집 완료.
 [2243/4503] 'KALV' 처리 중...
@@ -6183,7 +4512,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2250/4503] 'KBSX' 처리 중...
   -> 'KBSX' 데이터 수집 완료.
 [2251/4503] 'KC' 처리 중...
-  -> 'KC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2252/4503] 'KD' 처리 중...
   -> 'KD' 데이터 수집 완료.
 [2253/4503] 'KDP' 처리 중...
@@ -6195,7 +4524,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2256/4503] 'KEN' 처리 중...
   -> 'KEN' 데이터 수집 완료.
 [2257/4503] 'KEP' 처리 중...
-  -> 'KEP' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2258/4503] 'KEQU' 처리 중...
   -> 'KEQU' 데이터 수집 완료.
 [2259/4503] 'KEX' 처리 중...
@@ -6239,7 +4568,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2278/4503] 'KMB' 처리 중...
   -> 'KMB' 데이터 수집 완료.
 [2279/4503] 'KMDA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'KMDA' 데이터 수집 완료.
 [2280/4503] 'KMI' 처리 중...
   -> 'KMI' 데이터 수집 완료.
 [2281/4503] 'KMPR' 처리 중...
@@ -6301,7 +4630,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2309/4503] 'KROS' 처리 중...
   -> 'KROS' 데이터 수집 완료.
 [2310/4503] 'KRP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'KRP' 데이터 수집 완료.
 [2311/4503] 'KRT' 처리 중...
   -> 'KRT' 데이터 수집 완료.
 [2312/4503] 'KRUS' 처리 중...
@@ -6323,7 +4652,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2320/4503] 'KTOS' 처리 중...
   -> 'KTOS' 데이터 수집 완료.
 [2321/4503] 'KTTA' 처리 중...
-  -> 'KTTA' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2322/4503] 'KUKE' 처리 중...
   -> 'KUKE' 데이터 수집 완료.
 [2323/4503] 'KULR' 처리 중...
@@ -6343,7 +4672,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2330/4503] 'KYN' 처리 중...
   -> 'KYN' 데이터 수집 완료.
 [2331/4503] 'KZIA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2332/4503] 'KZR' 처리 중...
   -> 'KZR' 데이터 수집 완료.
 [2333/4503] 'L' 처리 중...
@@ -6443,7 +4772,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2380/4503] 'LGIH' 처리 중...
   -> 'LGIH' 데이터 수집 완료.
 [2381/4503] 'LGL' 처리 중...
-  -> 'LGL' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2382/4503] 'LGND' 처리 중...
   -> 'LGND' 데이터 수집 완료.
 [2383/4503] 'LGO' 처리 중...
@@ -6485,7 +4814,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2401/4503] 'LIVN' 처리 중...
   -> 'LIVN' 데이터 수집 완료.
 [2402/4503] 'LIXT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'LIXT' 데이터 수집 완료.
 [2403/4503] 'LKFN' 처리 중...
   -> 'LKFN' 데이터 수집 완료.
 [2404/4503] 'LKQ' 처리 중...
@@ -6497,7 +4826,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2407/4503] 'LMB' 처리 중...
   -> 'LMB' 데이터 수집 완료.
 [2408/4503] 'LMFA' 처리 중...
-  -> 'LMFA' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2409/4503] 'LMND' 처리 중...
   -> 'LMND' 데이터 수집 완료.
 [2410/4503] 'LMNR' 처리 중...
@@ -6507,7 +4836,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2412/4503] 'LNC' 처리 중...
   -> 'LNC' 데이터 수집 완료.
 [2413/4503] 'LND' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'LND' 데이터 수집 완료.
 [2414/4503] 'LNG' 처리 중...
   -> 'LNG' 데이터 수집 완료.
 [2415/4503] 'LNKB' 처리 중...
@@ -6529,7 +4858,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2423/4503] 'LOB' 처리 중...
   -> 'LOB' 데이터 수집 완료.
 [2424/4503] 'LOCO' 처리 중...
-  -> 'LOCO' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'LOCO' 데이터 수집 완료.
 [2425/4503] 'LODE' 처리 중...
   -> 'LODE' 데이터 수집 완료.
 [2426/4503] 'LOGI' 처리 중...
@@ -6553,7 +4882,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2435/4503] 'LPRO' 처리 중...
   -> 'LPRO' 데이터 수집 완료.
 [2436/4503] 'LPTH' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'LPTH' 데이터 수집 완료.
 [2437/4503] 'LPTX' 처리 중...
   -> 'LPTX' 데이터 수집 완료.
 [2438/4503] 'LPX' 처리 중...
@@ -6575,7 +4904,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2446/4503] 'LSCC' 처리 중...
   -> 'LSCC' 데이터 수집 완료.
 [2447/4503] 'LSF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'LSF' 데이터 수집 완료.
 [2448/4503] 'LSPD' 처리 중...
   -> 'LSPD' 데이터 수집 완료.
 [2449/4503] 'LSTA' 처리 중...
@@ -6623,7 +4952,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2470/4503] 'LWAY' 처리 중...
   -> 'LWAY' 데이터 수집 완료.
 [2471/4503] 'LWLG' 처리 중...
-  -> 'LWLG' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2472/4503] 'LX' 처리 중...
   -> 'LX' 데이터 수집 완료.
 [2473/4503] 'LXEH' 처리 중...
@@ -6631,7 +4960,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2474/4503] 'LXFR' 처리 중...
   -> 'LXFR' 데이터 수집 완료.
 [2475/4503] 'LXP' 처리 중...
-  -> 'LXP' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'LXP' 데이터 수집 완료.
 [2476/4503] 'LXRX' 처리 중...
   -> 'LXRX' 데이터 수집 완료.
 [2477/4503] 'LXU' 처리 중...
@@ -6665,7 +4994,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2491/4503] 'MAC' 처리 중...
   -> 'MAC' 데이터 수집 완료.
 [2492/4503] 'MAIA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MAIA' 데이터 수집 완료.
 [2493/4503] 'MAIN' 처리 중...
   -> 'MAIN' 데이터 수집 완료.
 [2494/4503] 'MAMA' 처리 중...
@@ -6681,7 +5010,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2499/4503] 'MARA' 처리 중...
   -> 'MARA' 데이터 수집 완료.
 [2500/4503] 'MARPS' 처리 중...
-  -> 'MARPS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2501/4503] 'MAS' 처리 중...
   -> 'MAS' 데이터 수집 완료.
 [2502/4503] 'MASI' 처리 중...
@@ -6701,7 +5030,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2509/4503] 'MAYS' 처리 중...
   -> 'MAYS' 데이터 수집 완료.
 [2510/4503] 'MBBC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MBBC' 데이터 수집 완료.
 [2511/4503] 'MBCN' 처리 중...
   -> 'MBCN' 데이터 수집 완료.
 [2512/4503] 'MBIN' 처리 중...
@@ -6709,7 +5038,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2513/4503] 'MBOT' 처리 중...
   -> 'MBOT' 데이터 수집 완료.
 [2514/4503] 'MBRX' 처리 중...
-  -> 'MBRX' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2515/4503] 'MBUU' 처리 중...
   -> 'MBUU' 데이터 수집 완료.
 [2516/4503] 'MBWM' 처리 중...
@@ -6753,7 +5082,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2535/4503] 'MDLZ' 처리 중...
   -> 'MDLZ' 데이터 수집 완료.
 [2536/4503] 'MDRR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MDRR' 데이터 수집 완료.
 [2537/4503] 'MDT' 처리 중...
   -> 'MDT' 데이터 수집 완료.
 [2538/4503] 'MDU' 처리 중...
@@ -6801,7 +5130,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2559/4503] 'MFH' 처리 중...
   -> 주가 데이터가 3년 미만이라 제외합니다.
 [2560/4503] 'MFIC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MFIC' 데이터 수집 완료.
 [2561/4503] 'MFIN' 처리 중...
   -> 'MFIN' 데이터 수집 완료.
 [2562/4503] 'MFM' 처리 중...
@@ -6815,7 +5144,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2566/4503] 'MGF' 처리 중...
   -> 'MGF' 데이터 수집 완료.
 [2567/4503] 'MGLD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MGLD' 데이터 수집 완료.
 [2568/4503] 'MGM' 처리 중...
   -> 'MGM' 데이터 수집 완료.
 [2569/4503] 'MGNI' 처리 중...
@@ -6827,7 +5156,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2572/4503] 'MGRC' 처리 중...
   -> 'MGRC' 데이터 수집 완료.
 [2573/4503] 'MGTX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MGTX' 데이터 수집 완료.
 [2574/4503] 'MGY' 처리 중...
   -> 'MGY' 데이터 수집 완료.
 [2575/4503] 'MGYR' 처리 중...
@@ -6837,7 +5166,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2577/4503] 'MHF' 처리 중...
   -> 'MHF' 데이터 수집 완료.
 [2578/4503] 'MHH' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MHH' 데이터 수집 완료.
 [2579/4503] 'MHK' 처리 중...
   -> 'MHK' 데이터 수집 완료.
 [2580/4503] 'MHN' 처리 중...
@@ -6859,11 +5188,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2588/4503] 'MIRM' 처리 중...
   -> 'MIRM' 데이터 수집 완료.
 [2589/4503] 'MIST' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MIST' 데이터 수집 완료.
 [2590/4503] 'MITK' 처리 중...
   -> 'MITK' 데이터 수집 완료.
 [2591/4503] 'MITQ' 처리 중...
-  -> 'MITQ' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2592/4503] 'MITT' 처리 중...
   -> 'MITT' 데이터 수집 완료.
 [2593/4503] 'MIY' 처리 중...
@@ -6917,7 +5246,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2617/4503] 'MMYT' 처리 중...
   -> 'MMYT' 데이터 수집 완료.
 [2618/4503] 'MNDO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MNDO' 데이터 수집 완료.
 [2619/4503] 'MNDY' 처리 중...
   -> 'MNDY' 데이터 수집 완료.
 [2620/4503] 'MNMD' 처리 중...
@@ -6925,7 +5254,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2621/4503] 'MNOV' 처리 중...
   -> 'MNOV' 데이터 수집 완료.
 [2622/4503] 'MNPR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MNPR' 데이터 수집 완료.
 [2623/4503] 'MNRO' 처리 중...
   -> 'MNRO' 데이터 수집 완료.
 [2624/4503] 'MNSB' 처리 중...
@@ -6945,7 +5274,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2631/4503] 'MOD' 처리 중...
   -> 'MOD' 데이터 수집 완료.
 [2632/4503] 'MODD' 처리 중...
-  -> 'MODD' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2633/4503] 'MODG' 처리 중...
   -> 'MODG' 데이터 수집 완료.
 [2634/4503] 'MOFG' 처리 중...
@@ -6953,7 +5282,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2635/4503] 'MOG-A' 처리 중...
   -> 'MOG-A' 데이터 수집 완료.
 [2636/4503] 'MOGO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MOGO' 데이터 수집 완료.
 [2637/4503] 'MOGU' 처리 중...
   -> 'MOGU' 데이터 수집 완료.
 [2638/4503] 'MOH' 처리 중...
@@ -6985,174 +5314,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2651/4503] 'MPTI' 처리 중...
   -> 'MPTI' 데이터 수집 완료.
 [2652/4503] 'MPU' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MPU' 데이터 수집 완료.
 [2653/4503] 'MPV' 처리 중...
   -> 'MPV' 데이터 수집 완료.
 [2654/4503] 'MPW' 처리 중...
@@ -7178,7 +5340,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2664/4503] 'MRCY' 처리 중...
   -> 'MRCY' 데이터 수집 완료.
 [2665/4503] 'MREO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MREO' 데이터 수집 완료.
 [2666/4503] 'MRK' 처리 중...
   -> 'MRK' 데이터 수집 완료.
 [2667/4503] 'MRKR' 처리 중...
@@ -7224,7 +5386,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2687/4503] 'MSN' 처리 중...
   -> 'MSN' 데이터 수집 완료.
 [2688/4503] 'MSPR' 처리 중...
-  -> 'MSPR' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2689/4503] 'MSTR' 처리 중...
   -> 'MSTR' 데이터 수집 완료.
 [2690/4503] 'MT' 처리 중...
@@ -7252,7 +5414,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2701/4503] 'MTN' 처리 중...
   -> 'MTN' 데이터 수집 완료.
 [2702/4503] 'MTNB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MTNB' 데이터 수집 완료.
 [2703/4503] 'MTR' 처리 중...
   -> 'MTR' 데이터 수집 완료.
 [2704/4503] 'MTRN' 처리 중...
@@ -7294,13 +5456,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2722/4503] 'MVIS' 처리 중...
   -> 'MVIS' 데이터 수집 완료.
 [2723/4503] 'MVO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MVO' 데이터 수집 완료.
 [2724/4503] 'MVST' 처리 중...
   -> 'MVST' 데이터 수집 완료.
 [2725/4503] 'MVT' 처리 중...
   -> 'MVT' 데이터 수집 완료.
 [2726/4503] 'MWA' 처리 중...
-  -> 'MWA' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'MWA' 데이터 수집 완료.
 [2727/4503] 'MX' 처리 중...
   -> 'MX' 데이터 수집 완료.
 [2728/4503] 'MXC' 처리 중...
@@ -7330,178 +5492,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2740/4503] 'MYSZ' 처리 중...
   -> 'MYSZ' 데이터 수집 완료.
 [2741/4503] 'MZTI' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'MZTI' 데이터 수집 완료.
 [2742/4503] 'NABL' 처리 중...
   -> 'NABL' 데이터 수집 완료.
 [2743/4503] 'NAC' 처리 중...
-  -> 'NAC' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2744/4503] 'NAD' 처리 중...
   -> 'NAD' 데이터 수집 완료.
 [2745/4503] 'NAGE' 처리 중...
@@ -7513,7 +5508,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2748/4503] 'NAMS' 처리 중...
   -> 'NAMS' 데이터 수집 완료.
 [2749/4503] 'NAN' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2750/4503] 'NAOV' 처리 중...
   -> 'NAOV' 데이터 수집 완료.
 [2751/4503] 'NAT' 처리 중...
@@ -7531,17 +5526,17 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2757/4503] 'NBIX' 처리 중...
   -> 'NBIX' 데이터 수집 완료.
 [2758/4503] 'NBN' 처리 중...
-  -> 'NBN' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'NBN' 데이터 수집 완료.
 [2759/4503] 'NBR' 처리 중...
-  -> 'NBR' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'NBR' 데이터 수집 완료.
 [2760/4503] 'NBTB' 처리 중...
   -> 'NBTB' 데이터 수집 완료.
 [2761/4503] 'NBY' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NBY' 데이터 수집 완료.
 [2762/4503] 'NC' 처리 중...
   -> 'NC' 데이터 수집 완료.
 [2763/4503] 'NCA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2764/4503] 'NCLH' 처리 중...
   -> 'NCLH' 데이터 수집 완료.
 [2765/4503] 'NCMI' 처리 중...
@@ -7553,176 +5548,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2768/4503] 'NCPL' 처리 중...
   -> 'NCPL' 데이터 수집 완료.
 [2769/4503] 'NCRA' 처리 중...
-  -> 'NCRA' 데이터 수집 완료.
-[2770/4503] 'NCSM' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+[2770/4503] 'NCSM' 처리 중...
+  -> 'NCSM' 데이터 수집 완료.
 [2771/4503] 'NCTY' 처리 중...
   -> 'NCTY' 데이터 수집 완료.
 [2772/4503] 'NCV' 처리 중...
@@ -7732,11 +5560,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2774/4503] 'NDAQ' 처리 중...
   -> 'NDAQ' 데이터 수집 완료.
 [2775/4503] 'NDRA' 처리 중...
-  -> 'NDRA' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'NDRA' 데이터 수집 완료.
 [2776/4503] 'NDSN' 처리 중...
   -> 'NDSN' 데이터 수집 완료.
 [2777/4503] 'NE' 처리 중...
-  -> 'NE' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'NE' 데이터 수집 완료.
 [2778/4503] 'NEA' 처리 중...
   -> 'NEA' 데이터 수집 완료.
 [2779/4503] 'NECB' 처리 중...
@@ -7754,7 +5582,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2785/4503] 'NEON' 처리 중...
   -> 'NEON' 데이터 수집 완료.
 [2786/4503] 'NEOV' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NEOV' 데이터 수집 완료.
 [2787/4503] 'NEPH' 처리 중...
   -> 'NEPH' 데이터 수집 완료.
 [2788/4503] 'NET' 처리 중...
@@ -7762,7 +5590,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2789/4503] 'NEU' 처리 중...
   -> 'NEU' 데이터 수집 완료.
 [2790/4503] 'NEWP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NEWP' 데이터 수집 완료.
 [2791/4503] 'NEWT' 처리 중...
   -> 'NEWT' 데이터 수집 완료.
 [2792/4503] 'NEXA' 처리 중...
@@ -7770,7 +5598,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2793/4503] 'NEXM' 처리 중...
   -> 'NEXM' 데이터 수집 완료.
 [2794/4503] 'NEXN' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NEXN' 데이터 수집 완료.
 [2795/4503] 'NEXT' 처리 중...
   -> 'NEXT' 데이터 수집 완료.
 [2796/4503] 'NFBK' 처리 중...
@@ -7822,7 +5650,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2819/4503] 'NITO' 처리 중...
   -> 'NITO' 데이터 수집 완료.
 [2820/4503] 'NIU' 처리 중...
-  -> 'NIU' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2821/4503] 'NIVF' 처리 중...
   -> 'NIVF' 데이터 수집 완료.
 [2822/4503] 'NIXX' 처리 중...
@@ -7846,7 +5674,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2831/4503] 'NMFC' 처리 중...
   -> 'NMFC' 데이터 수집 완료.
 [2832/4503] 'NMG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NMG' 데이터 수집 완료.
 [2833/4503] 'NMI' 처리 중...
   -> 'NMI' 데이터 수집 완료.
 [2834/4503] 'NMIH' 처리 중...
@@ -7874,11 +5702,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2845/4503] 'NNN' 처리 중...
   -> 'NNN' 데이터 수집 완료.
 [2846/4503] 'NNOX' 처리 중...
-  -> 'NNOX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2847/4503] 'NNVC' 처리 중...
   -> 'NNVC' 데이터 수집 완료.
 [2848/4503] 'NNY' 처리 중...
-  -> 'NNY' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2849/4503] 'NOA' 처리 중...
   -> 'NOA' 데이터 수집 완료.
 [2850/4503] 'NOAH' 처리 중...
@@ -7928,13 +5756,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2872/4503] 'NRG' 처리 중...
   -> 'NRG' 데이터 수집 완료.
 [2873/4503] 'NRGV' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NRGV' 데이터 수집 완료.
 [2874/4503] 'NRIM' 처리 중...
   -> 'NRIM' 데이터 수집 완료.
 [2875/4503] 'NRIX' 처리 중...
   -> 'NRIX' 데이터 수집 완료.
 [2876/4503] 'NRK' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2877/4503] 'NRO' 처리 중...
   -> 'NRO' 데이터 수집 완료.
 [2878/4503] 'NRP' 처리 중...
@@ -7968,7 +5796,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2892/4503] 'NTGR' 처리 중...
   -> 'NTGR' 데이터 수집 완료.
 [2893/4503] 'NTIC' 처리 중...
-  -> 'NTIC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2894/4503] 'NTIP' 처리 중...
   -> 'NTIP' 데이터 수집 완료.
 [2895/4503] 'NTLA' 처리 중...
@@ -7984,7 +5812,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2900/4503] 'NTST' 처리 중...
   -> 'NTST' 데이터 수집 완료.
 [2901/4503] 'NTWK' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NTWK' 데이터 수집 완료.
 [2902/4503] 'NTZ' 처리 중...
   -> 'NTZ' 데이터 수집 완료.
 [2903/4503] 'NU' 처리 중...
@@ -8060,17 +5888,17 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2938/4503] 'NXDR' 처리 중...
   -> 'NXDR' 데이터 수집 완료.
 [2939/4503] 'NXDT' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'NXDT' 데이터 수집 완료.
 [2940/4503] 'NXE' 처리 중...
   -> 'NXE' 데이터 수집 완료.
 [2941/4503] 'NXGL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'NXGL' 데이터 수집 완료.
 [2942/4503] 'NXJ' 처리 중...
-  -> 'NXJ' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [2943/4503] 'NXL' 처리 중...
   -> 'NXL' 데이터 수집 완료.
 [2944/4503] 'NXP' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'NXP' 데이터 수집 완료.
 [2945/4503] 'NXPI' 처리 중...
   -> 'NXPI' 데이터 수집 완료.
 [2946/4503] 'NXPL' 처리 중...
@@ -8084,13 +5912,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2950/4503] 'NXTT' 처리 중...
   -> 'NXTT' 데이터 수집 완료.
 [2951/4503] 'NYAX' 처리 중...
-  -> 'NYAX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2952/4503] 'NYC' 처리 중...
-  -> 'NYC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2953/4503] 'NYT' 처리 중...
   -> 'NYT' 데이터 수집 완료.
 [2954/4503] 'NYXH' 처리 중...
-  -> 'NYXH' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2955/4503] 'NZF' 처리 중...
   -> 'NZF' 데이터 수집 완료.
 [2956/4503] 'O' 처리 중...
@@ -8102,7 +5930,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2959/4503] 'OBE' 처리 중...
   -> 'OBE' 데이터 수집 완료.
 [2960/4503] 'OBIO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'OBIO' 데이터 수집 완료.
 [2961/4503] 'OBK' 처리 중...
   -> 'OBK' 데이터 수집 완료.
 [2962/4503] 'OBLG' 처리 중...
@@ -8124,9 +5952,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2970/4503] 'OCGN' 처리 중...
   -> 'OCGN' 데이터 수집 완료.
 [2971/4503] 'OCS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'OCS' 데이터 수집 완료.
 [2972/4503] 'OCSL' 처리 중...
-  -> 'OCSL' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [2973/4503] 'OCUL' 처리 중...
   -> 'OCUL' 데이터 수집 완료.
 [2974/4503] 'ODC' 처리 중...
@@ -8162,7 +5990,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [2989/4503] 'OI' 처리 중...
   -> 'OI' 데이터 수집 완료.
 [2990/4503] 'OIA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'OIA' 데이터 수집 완료.
 [2991/4503] 'OII' 처리 중...
   -> 'OII' 데이터 수집 완료.
 [2992/4503] 'OIS' 처리 중...
@@ -8194,7 +6022,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3005/4503] 'OMC' 처리 중...
   -> 'OMC' 데이터 수집 완료.
 [3006/4503] 'OMCC' 처리 중...
-  -> 'OMCC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3007/4503] 'OMCL' 처리 중...
   -> 'OMCL' 데이터 수집 완료.
 [3008/4503] 'OMF' 처리 중...
@@ -8212,9 +6040,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3014/4503] 'ONDS' 처리 중...
   -> 'ONDS' 데이터 수집 완료.
 [3015/4503] 'ONEW' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ONEW' 데이터 수집 완료.
 [3016/4503] 'ONFO' 처리 중...
-  -> 'ONFO' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3017/4503] 'ONIT' 처리 중...
   -> 'ONIT' 데이터 수집 완료.
 [3018/4503] 'ONL' 처리 중...
@@ -8242,7 +6070,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3029/4503] 'OPFI' 처리 중...
   -> 'OPFI' 데이터 수집 완료.
 [3030/4503] 'OPHC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'OPHC' 데이터 수집 완료.
 [3031/4503] 'OPK' 처리 중...
   -> 'OPK' 데이터 수집 완료.
 [3032/4503] 'OPRA' 처리 중...
@@ -8260,11 +6088,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3038/4503] 'OPY' 처리 중...
   -> 'OPY' 데이터 수집 완료.
 [3039/4503] 'OR' 처리 중...
-  -> 'OR' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'OR' 데이터 수집 완료.
 [3040/4503] 'ORA' 처리 중...
   -> 'ORA' 데이터 수집 완료.
 [3041/4503] 'ORBS' 처리 중...
-  -> 'ORBS' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3042/4503] 'ORC' 처리 중...
   -> 'ORC' 데이터 수집 완료.
 [3043/4503] 'ORCL' 처리 중...
@@ -8316,9 +6144,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3066/4503] 'OVBC' 처리 중...
   -> 'OVBC' 데이터 수집 완료.
 [3067/4503] 'OVID' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'OVID' 데이터 수집 완료.
 [3068/4503] 'OVLY' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'OVLY' 데이터 수집 완료.
 [3069/4503] 'OVV' 처리 중...
   -> 'OVV' 데이터 수집 완료.
 [3070/4503] 'OWL' 처리 중...
@@ -8356,7 +6184,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3086/4503] 'PAHC' 처리 중...
   -> 'PAHC' 데이터 수집 완료.
 [3087/4503] 'PALI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PALI' 데이터 수집 완료.
 [3088/4503] 'PAM' 처리 중...
   -> 'PAM' 데이터 수집 완료.
 [3089/4503] 'PAMT' 처리 중...
@@ -8370,7 +6198,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3093/4503] 'PARR' 처리 중...
   -> 'PARR' 데이터 수집 완료.
 [3094/4503] 'PASG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PASG' 데이터 수집 완료.
 [3095/4503] 'PATH' 처리 중...
   -> 'PATH' 데이터 수집 완료.
 [3096/4503] 'PATK' 처리 중...
@@ -8486,7 +6314,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3151/4503] 'PEP' 처리 중...
   -> 'PEP' 데이터 수집 완료.
 [3152/4503] 'PEPG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PEPG' 데이터 수집 완료.
 [3153/4503] 'PERI' 처리 중...
   -> 'PERI' 데이터 수집 완료.
 [3154/4503] 'PESI' 처리 중...
@@ -8562,7 +6390,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3189/4503] 'PHUN' 처리 중...
   -> 'PHUN' 데이터 수집 완료.
 [3190/4503] 'PHVS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PHVS' 데이터 수집 완료.
 [3191/4503] 'PI' 처리 중...
   -> 'PI' 데이터 수집 완료.
 [3192/4503] 'PII' 처리 중...
@@ -8602,7 +6430,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3209/4503] 'PLBC' 처리 중...
   -> 'PLBC' 데이터 수집 완료.
 [3210/4503] 'PLBY' 처리 중...
-  -> 'PLBY' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [3211/4503] 'PLD' 처리 중...
   -> 'PLD' 데이터 수집 완료.
 [3212/4503] 'PLG' 처리 중...
@@ -8640,7 +6468,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3228/4503] 'PMT' 처리 중...
   -> 'PMT' 데이터 수집 완료.
 [3229/4503] 'PMVP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PMVP' 데이터 수집 완료.
 [3230/4503] 'PNBK' 처리 중...
   -> 'PNBK' 데이터 수집 완료.
 [3231/4503] 'PNC' 처리 중...
@@ -8658,7 +6486,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3237/4503] 'PNW' 처리 중...
   -> 'PNW' 데이터 수집 완료.
 [3238/4503] 'POAI' 처리 중...
-  -> 'POAI' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3239/4503] 'POCI' 처리 중...
   -> 'POCI' 데이터 수집 완료.
 [3240/4503] 'PODD' 처리 중...
@@ -8666,7 +6494,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3241/4503] 'POET' 처리 중...
   -> 'POET' 데이터 수집 완료.
 [3242/4503] 'POLA' 처리 중...
-  -> 'POLA' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3243/4503] 'POOL' 처리 중...
   -> 'POOL' 데이터 수집 완료.
 [3244/4503] 'POR' 처리 중...
@@ -8680,11 +6508,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3248/4503] 'POWW' 처리 중...
   -> 'POWW' 데이터 수집 완료.
 [3249/4503] 'PPBT' 처리 중...
-  -> 'PPBT' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3250/4503] 'PPC' 처리 중...
   -> 'PPC' 데이터 수집 완료.
 [3251/4503] 'PPCB' 처리 중...
-  -> 'PPCB' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3252/4503] 'PPG' 처리 중...
   -> 'PPG' 데이터 수집 완료.
 [3253/4503] 'PPIH' 처리 중...
@@ -8710,7 +6538,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3263/4503] 'PRDO' 처리 중...
   -> 'PRDO' 데이터 수집 완료.
 [3264/4503] 'PRE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PRE' 데이터 수집 완료.
 [3265/4503] 'PRFX' 처리 중...
   -> 'PRFX' 데이터 수집 완료.
 [3266/4503] 'PRG' 처리 중...
@@ -8728,7 +6556,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3272/4503] 'PRLB' 처리 중...
   -> 'PRLB' 데이터 수집 완료.
 [3273/4503] 'PRLD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PRLD' 데이터 수집 완료.
 [3274/4503] 'PRM' 처리 중...
   -> 'PRM' 데이터 수집 완료.
 [3275/4503] 'PRMB' 처리 중...
@@ -8736,7 +6564,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3276/4503] 'PROF' 처리 중...
   -> 'PROF' 데이터 수집 완료.
 [3277/4503] 'PROK' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PROK' 데이터 수집 완료.
 [3278/4503] 'PROP' 처리 중...
   -> 'PROP' 데이터 수집 완료.
 [3279/4503] 'PROV' 처리 중...
@@ -8746,11 +6574,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3281/4503] 'PRPL' 처리 중...
   -> 'PRPL' 데이터 수집 완료.
 [3282/4503] 'PRPO' 처리 중...
-  -> 'PRPO' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3283/4503] 'PRQR' 처리 중...
   -> 'PRQR' 데이터 수집 완료.
 [3284/4503] 'PRSO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PRSO' 데이터 수집 완료.
 [3285/4503] 'PRSU' 처리 중...
   -> 'PRSU' 데이터 수집 완료.
 [3286/4503] 'PRT' 처리 중...
@@ -8760,7 +6588,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3288/4503] 'PRTC' 처리 중...
   -> 'PRTC' 데이터 수집 완료.
 [3289/4503] 'PRTS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PRTS' 데이터 수집 완료.
 [3290/4503] 'PRU' 처리 중...
   -> 'PRU' 데이터 수집 완료.
 [3291/4503] 'PRVA' 처리 중...
@@ -8768,9 +6596,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3292/4503] 'PSA' 처리 중...
   -> 'PSA' 데이터 수집 완료.
 [3293/4503] 'PSEC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PSEC' 데이터 수집 완료.
 [3294/4503] 'PSFE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PSFE' 데이터 수집 완료.
 [3295/4503] 'PSHG' 처리 중...
   -> 'PSHG' 데이터 수집 완료.
 [3296/4503] 'PSIX' 처리 중...
@@ -8812,7 +6640,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3314/4503] 'PUMP' 처리 중...
   -> 'PUMP' 데이터 수집 완료.
 [3315/4503] 'PVBC' 처리 중...
-  -> 'PVBC' 데이터 수집 완료.
+  -> 주가 데이터가 3년 미만이라 제외합니다.
 [3316/4503] 'PVH' 처리 중...
   -> 'PVH' 데이터 수집 완료.
 [3317/4503] 'PVL' 처리 중...
@@ -8824,186 +6652,19 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3320/4503] 'PWR' 처리 중...
   -> 'PWR' 데이터 수집 완료.
 [3321/4503] 'PX' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PX' 데이터 수집 완료.
 [3322/4503] 'PXLW' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PXLW' 데이터 수집 완료.
 [3323/4503] 'PXS' 처리 중...
   -> 'PXS' 데이터 수집 완료.
 [3324/4503] 'PYPD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'PYPD' 데이터 수집 완료.
 [3325/4503] 'PYPL' 처리 중...
   -> 'PYPL' 데이터 수집 완료.
 [3326/4503] 'PYXS' 처리 중...
   -> 'PYXS' 데이터 수집 완료.
 [3327/4503] 'PZG' 처리 중...
-  -> 'PZG' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3328/4503] 'QBTS' 처리 중...
   -> 'QBTS' 데이터 수집 완료.
 [3329/4503] 'QCOM' 처리 중...
@@ -9015,7 +6676,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3332/4503] 'QDEL' 처리 중...
   -> 'QDEL' 데이터 수집 완료.
 [3333/4503] 'QFIN' 처리 중...
-  -> 'QFIN' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3334/4503] 'QGEN' 처리 중...
   -> 'QGEN' 데이터 수집 완료.
 [3335/4503] 'QH' 처리 중...
@@ -9031,9 +6692,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3340/4503] 'QNST' 처리 중...
   -> 'QNST' 데이터 수집 완료.
 [3341/4503] 'QNTM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'QNTM' 데이터 수집 완료.
 [3342/4503] 'QRHC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'QRHC' 데이터 수집 완료.
 [3343/4503] 'QRVO' 처리 중...
   -> 'QRVO' 데이터 수집 완료.
 [3344/4503] 'QS' 처리 중...
@@ -9051,9 +6712,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3350/4503] 'QUBT' 처리 중...
   -> 'QUBT' 데이터 수집 완료.
 [3351/4503] 'QUIK' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'QUIK' 데이터 수집 완료.
 [3352/4503] 'QURE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'QURE' 데이터 수집 완료.
 [3353/4503] 'QXO' 처리 중...
   -> 'QXO' 데이터 수집 완료.
 [3354/4503] 'R' 처리 중...
@@ -9063,9 +6724,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3356/4503] 'RAMP' 처리 중...
   -> 'RAMP' 데이터 수집 완료.
 [3357/4503] 'RAND' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RAND' 데이터 수집 완료.
 [3358/4503] 'RAPT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RAPT' 데이터 수집 완료.
 [3359/4503] 'RARE' 처리 중...
   -> 'RARE' 데이터 수집 완료.
 [3360/4503] 'RAVE' 처리 중...
@@ -9109,11 +6770,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3379/4503] 'RCUS' 처리 중...
   -> 'RCUS' 데이터 수집 완료.
 [3380/4503] 'RDCM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RDCM' 데이터 수집 완료.
 [3381/4503] 'RDGT' 처리 중...
   -> 'RDGT' 데이터 수집 완료.
 [3382/4503] 'RDI' 처리 중...
-  -> 'RDI' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3383/4503] 'RDN' 처리 중...
   -> 'RDN' 데이터 수집 완료.
 [3384/4503] 'RDNT' 처리 중...
@@ -9131,7 +6792,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3390/4503] 'REAX' 처리 중...
   -> 'REAX' 데이터 수집 완료.
 [3391/4503] 'REBN' 처리 중...
-  -> 'REBN' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3392/4503] 'REE' 처리 중...
   -> 'REE' 데이터 수집 완료.
 [3393/4503] 'REFI' 처리 중...
@@ -9199,7 +6860,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3424/4503] 'RGP' 처리 중...
   -> 'RGP' 데이터 수집 완료.
 [3425/4503] 'RGS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RGS' 데이터 수집 완료.
 [3426/4503] 'RGTI' 처리 중...
   -> 'RGTI' 데이터 수집 완료.
 [3427/4503] 'RHI' 처리 중...
@@ -9213,7 +6874,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3431/4503] 'RIGL' 처리 중...
   -> 'RIGL' 데이터 수집 완료.
 [3432/4503] 'RIME' 처리 중...
-  -> 'RIME' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3433/4503] 'RIO' 처리 중...
   -> 'RIO' 데이터 수집 완료.
 [3434/4503] 'RIOT' 처리 중...
@@ -9225,7 +6886,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3437/4503] 'RJF' 처리 중...
   -> 'RJF' 데이터 수집 완료.
 [3438/4503] 'RKDA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RKDA' 데이터 수집 완료.
 [3439/4503] 'RKLB' 처리 중...
   -> 'RKLB' 데이터 수집 완료.
 [3440/4503] 'RKT' 처리 중...
@@ -9263,7 +6924,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3456/4503] 'RMT' 처리 중...
   -> 'RMT' 데이터 수집 완료.
 [3457/4503] 'RMTI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RMTI' 데이터 수집 완료.
 [3458/4503] 'RNA' 처리 중...
   -> 'RNA' 데이터 수집 완료.
 [3459/4503] 'RNAZ' 처리 중...
@@ -9277,7 +6938,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3463/4503] 'RNST' 처리 중...
   -> 'RNST' 데이터 수집 완료.
 [3464/4503] 'RNTX' 처리 중...
-  -> 'RNTX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3465/4503] 'RNW' 처리 중...
   -> 'RNW' 데이터 수집 완료.
 [3466/4503] 'RNXT' 처리 중...
@@ -9307,7 +6968,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3478/4503] 'RPD' 처리 중...
   -> 'RPD' 데이터 수집 완료.
 [3479/4503] 'RPID' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RPID' 데이터 수집 완료.
 [3480/4503] 'RPM' 처리 중...
   -> 'RPM' 데이터 수집 완료.
 [3481/4503] 'RPRX' 처리 중...
@@ -9333,7 +6994,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3491/4503] 'RSI' 처리 중...
   -> 'RSI' 데이터 수집 완료.
 [3492/4503] 'RSKD' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RSKD' 데이터 수집 완료.
 [3493/4503] 'RSSS' 처리 중...
   -> 'RSSS' 데이터 수집 완료.
 [3494/4503] 'RSVR' 처리 중...
@@ -9353,7 +7014,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3501/4503] 'RVMD' 처리 중...
   -> 'RVMD' 데이터 수집 완료.
 [3502/4503] 'RVP' 처리 중...
-  -> 'RVP' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3503/4503] 'RVSB' 처리 중...
   -> 'RVSB' 데이터 수집 완료.
 [3504/4503] 'RVSN' 처리 중...
@@ -9363,9 +7024,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3506/4503] 'RVTY' 처리 중...
   -> 'RVTY' 데이터 수집 완료.
 [3507/4503] 'RVYL' 처리 중...
-  -> 'RVYL' 데이터 수집 완료.
-[3508/4503] 'RWAY' 처리 중...
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+[3508/4503] 'RWAY' 처리 중...
+  -> 'RWAY' 데이터 수집 완료.
 [3509/4503] 'RWT' 처리 중...
   -> 'RWT' 데이터 수집 완료.
 [3510/4503] 'RXRX' 처리 중...
@@ -9383,7 +7044,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3516/4503] 'RYI' 처리 중...
   -> 'RYI' 데이터 수집 완료.
 [3517/4503] 'RYM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'RYM' 데이터 수집 완료.
 [3518/4503] 'RYN' 처리 중...
   -> 'RYN' 데이터 수집 완료.
 [3519/4503] 'RYTM' 처리 중...
@@ -9421,7 +7082,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3535/4503] 'SAND' 처리 중...
   -> 주가 데이터가 3년 미만이라 제외합니다.
 [3536/4503] 'SANG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SANG' 데이터 수집 완료.
 [3537/4503] 'SANM' 처리 중...
   -> 'SANM' 데이터 수집 완료.
 [3538/4503] 'SAP' 처리 중...
@@ -9431,7 +7092,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3540/4503] 'SATS' 처리 중...
   -> 'SATS' 데이터 수집 완료.
 [3541/4503] 'SAVA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SAVA' 데이터 수집 완료.
 [3542/4503] 'SB' 처리 중...
   -> 'SB' 데이터 수집 완료.
 [3543/4503] 'SBC' 처리 중...
@@ -9455,7 +7116,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3552/4503] 'SBLK' 처리 중...
   -> 'SBLK' 데이터 수집 완료.
 [3553/4503] 'SBLX' 처리 중...
-  -> 'SBLX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3554/4503] 'SBR' 처리 중...
   -> 'SBR' 데이터 수집 완료.
 [3555/4503] 'SBRA' 처리 중...
@@ -9481,7 +7142,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3565/4503] 'SCL' 처리 중...
   -> 'SCL' 데이터 수집 완료.
 [3566/4503] 'SCM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SCM' 데이터 수집 완료.
 [3567/4503] 'SCNI' 처리 중...
   -> 'SCNI' 데이터 수집 완료.
 [3568/4503] 'SCOR' 처리 중...
@@ -9523,7 +7184,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3586/4503] 'SEIC' 처리 중...
   -> 'SEIC' 데이터 수집 완료.
 [3587/4503] 'SELF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SELF' 데이터 수집 완료.
 [3588/4503] 'SEM' 처리 중...
   -> 'SEM' 데이터 수집 완료.
 [3589/4503] 'SEMR' 처리 중...
@@ -9557,7 +7218,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3603/4503] 'SG' 처리 중...
   -> 'SG' 데이터 수집 완료.
 [3604/4503] 'SGA' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'SGA' 데이터 수집 완료.
 [3605/4503] 'SGBX' 처리 중...
   -> 'SGBX' 데이터 수집 완료.
 [3606/4503] 'SGC' 처리 중...
@@ -9575,7 +7236,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3612/4503] 'SGMO' 처리 중...
   -> 'SGMO' 데이터 수집 완료.
 [3613/4503] 'SGRP' 처리 중...
-  -> 'SGRP' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3614/4503] 'SGRY' 처리 중...
   -> 'SGRY' 데이터 수집 완료.
 [3615/4503] 'SGU' 처리 중...
@@ -9591,7 +7252,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3620/4503] 'SHEN' 처리 중...
   -> 'SHEN' 데이터 수집 완료.
 [3621/4503] 'SHFS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SHFS' 데이터 수집 완료.
 [3622/4503] 'SHG' 처리 중...
   -> 'SHG' 데이터 수집 완료.
 [3623/4503] 'SHIP' 처리 중...
@@ -9617,7 +7278,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3633/4503] 'SIDU' 처리 중...
   -> 'SIDU' 데이터 수집 완료.
 [3634/4503] 'SIEB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SIEB' 데이터 수집 완료.
 [3635/4503] 'SIF' 처리 중...
   -> 'SIF' 데이터 수집 완료.
 [3636/4503] 'SIG' 처리 중...
@@ -9661,13 +7322,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3655/4503] 'SKLZ' 처리 중...
   -> 'SKLZ' 데이터 수집 완료.
 [3656/4503] 'SKM' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'SKM' 데이터 수집 완료.
 [3657/4503] 'SKT' 처리 중...
   -> 'SKT' 데이터 수집 완료.
 [3658/4503] 'SKY' 처리 중...
   -> 'SKY' 데이터 수집 완료.
 [3659/4503] 'SKYE' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SKYE' 데이터 수집 완료.
 [3660/4503] 'SKYH' 처리 중...
   -> 'SKYH' 데이터 수집 완료.
 [3661/4503] 'SKYT' 처리 중...
@@ -9691,7 +7352,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3670/4503] 'SLG' 처리 중...
   -> 'SLG' 데이터 수집 완료.
 [3671/4503] 'SLGL' 처리 중...
-  -> 'SLGL' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3672/4503] 'SLGN' 처리 중...
   -> 'SLGN' 데이터 수집 완료.
 [3673/4503] 'SLM' 처리 중...
@@ -9703,7 +7364,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3676/4503] 'SLNG' 처리 중...
   -> 'SLNG' 데이터 수집 완료.
 [3677/4503] 'SLNH' 처리 중...
-  -> 'SLNH' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3678/4503] 'SLNO' 처리 중...
   -> 'SLNO' 데이터 수집 완료.
 [3679/4503] 'SLP' 처리 중...
@@ -9713,17 +7374,17 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3681/4503] 'SLRC' 처리 중...
   -> 'SLRC' 데이터 수집 완료.
 [3682/4503] 'SLRX' 처리 중...
-  -> 'SLRX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3683/4503] 'SLS' 처리 중...
   -> 'SLS' 데이터 수집 완료.
 [3684/4503] 'SLSN' 처리 중...
   -> 'SLSN' 데이터 수집 완료.
 [3685/4503] 'SLSR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [3686/4503] 'SLVM' 처리 중...
   -> 'SLVM' 데이터 수집 완료.
 [3687/4503] 'SM' 처리 중...
-  -> 'SM' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'SM' 데이터 수집 완료.
 [3688/4503] 'SMBC' 처리 중...
   -> 'SMBC' 데이터 수집 완료.
 [3689/4503] 'SMBK' 처리 중...
@@ -9769,7 +7430,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3709/4503] 'SNCY' 처리 중...
   -> 'SNCY' 데이터 수집 완료.
 [3710/4503] 'SND' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SND' 데이터 수집 완료.
 [3711/4503] 'SNDA' 처리 중...
   -> 'SNDA' 데이터 수집 완료.
 [3712/4503] 'SNDL' 처리 중...
@@ -9779,13 +7440,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3714/4503] 'SNDX' 처리 중...
   -> 'SNDX' 데이터 수집 완료.
 [3715/4503] 'SNES' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SNES' 데이터 수집 완료.
 [3716/4503] 'SNEX' 처리 중...
   -> 'SNEX' 데이터 수집 완료.
 [3717/4503] 'SNFCA' 처리 중...
   -> 'SNFCA' 데이터 수집 완료.
 [3718/4503] 'SNGX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SNGX' 데이터 수집 완료.
 [3719/4503] 'SNN' 처리 중...
   -> 'SNN' 데이터 수집 완료.
 [3720/4503] 'SNOA' 처리 중...
@@ -9795,7 +7456,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3722/4503] 'SNPS' 처리 중...
   -> 'SNPS' 데이터 수집 완료.
 [3723/4503] 'SNSE' 처리 중...
-  -> 'SNSE' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3724/4503] 'SNT' 처리 중...
   -> 'SNT' 데이터 수집 완료.
 [3725/4503] 'SNTG' 처리 중...
@@ -9821,7 +7482,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3735/4503] 'SOHO' 처리 중...
   -> 'SOHO' 데이터 수집 완료.
 [3736/4503] 'SOHU' 처리 중...
-  -> 'SOHU' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3737/4503] 'SOL' 처리 중...
   -> 'SOL' 데이터 수집 완료.
 [3738/4503] 'SON' 처리 중...
@@ -9833,7 +7494,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3741/4503] 'SONY' 처리 중...
   -> 'SONY' 데이터 수집 완료.
 [3742/4503] 'SOPA' 처리 중...
-  -> 'SOPA' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3743/4503] 'SOPH' 처리 중...
   -> 'SOPH' 데이터 수집 완료.
 [3744/4503] 'SOR' 처리 중...
@@ -9861,7 +7522,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3755/4503] 'SPGI' 처리 중...
   -> 'SPGI' 데이터 수집 완료.
 [3756/4503] 'SPH' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SPH' 데이터 수집 완료.
 [3757/4503] 'SPIR' 처리 중...
   -> 'SPIR' 데이터 수집 완료.
 [3758/4503] 'SPNS' 처리 중...
@@ -9873,13 +7534,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3761/4503] 'SPOT' 처리 중...
   -> 'SPOT' 데이터 수집 완료.
 [3762/4503] 'SPRB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SPRB' 데이터 수집 완료.
 [3763/4503] 'SPRC' 처리 중...
-  -> 'SPRC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3764/4503] 'SPRO' 처리 중...
   -> 'SPRO' 데이터 수집 완료.
 [3765/4503] 'SPRU' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SPRU' 데이터 수집 완료.
 [3766/4503] 'SPRY' 처리 중...
   -> 'SPRY' 데이터 수집 완료.
 [3767/4503] 'SPSC' 처리 중...
@@ -9893,7 +7554,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3771/4503] 'SPXX' 처리 중...
   -> 'SPXX' 데이터 수집 완료.
 [3772/4503] 'SQFT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SQFT' 데이터 수집 완료.
 [3773/4503] 'SQM' 처리 중...
   -> 'SQM' 데이터 수집 완료.
 [3774/4503] 'SQNS' 처리 중...
@@ -9903,13 +7564,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3776/4503] 'SRAD' 처리 중...
   -> 'SRAD' 데이터 수집 완료.
 [3777/4503] 'SRCE' 처리 중...
-  -> 'SRCE' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'SRCE' 데이터 수집 완료.
 [3778/4503] 'SRDX' 처리 중...
   -> 'SRDX' 데이터 수집 완료.
 [3779/4503] 'SRE' 처리 중...
   -> 'SRE' 데이터 수집 완료.
 [3780/4503] 'SRG' 처리 중...
-  -> 'SRG' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3781/4503] 'SRI' 처리 중...
   -> 'SRI' 데이터 수집 완료.
 [3782/4503] 'SRL' 처리 중...
@@ -9931,7 +7592,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3790/4503] 'SSD' 처리 중...
   -> 'SSD' 데이터 수집 완료.
 [3791/4503] 'SSKN' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SSKN' 데이터 수집 완료.
 [3792/4503] 'SSL' 처리 중...
   -> 'SSL' 데이터 수집 완료.
 [3793/4503] 'SSNC' 처리 중...
@@ -9971,7 +7632,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3810/4503] 'STEW' 처리 중...
   -> 'STEW' 데이터 수집 완료.
 [3811/4503] 'STG' 처리 중...
-  -> 'STG' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3812/4503] 'STGW' 처리 중...
   -> 'STGW' 데이터 수집 완료.
 [3813/4503] 'STIM' 처리 중...
@@ -10005,174 +7666,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3827/4503] 'STRO' 처리 중...
   -> 'STRO' 데이터 수집 완료.
 [3828/4503] 'STRR' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'STRR' 데이터 수집 완료.
 [3829/4503] 'STRS' 처리 중...
   -> 'STRS' 데이터 수집 완료.
 [3830/4503] 'STRT' 처리 중...
@@ -10196,7 +7690,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3839/4503] 'SUI' 처리 중...
   -> 'SUI' 데이터 수집 완료.
 [3840/4503] 'SUIG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SUIG' 데이터 수집 완료.
 [3841/4503] 'SUN' 처리 중...
   -> 'SUN' 데이터 수집 완료.
 [3842/4503] 'SUNE' 처리 중...
@@ -10242,7 +7736,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3862/4503] 'SXTC' 처리 중...
   -> 'SXTC' 데이터 수집 완료.
 [3863/4503] 'SY' 처리 중...
-  -> 'SY' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3864/4503] 'SYBT' 처리 중...
   -> 'SYBT' 데이터 수집 완료.
 [3865/4503] 'SYBX' 처리 중...
@@ -10256,7 +7750,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3869/4503] 'SYNA' 처리 중...
   -> 'SYNA' 데이터 수집 완료.
 [3870/4503] 'SYPR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'SYPR' 데이터 수집 완료.
 [3871/4503] 'SYRE' 처리 중...
   -> 'SYRE' 데이터 수집 완료.
 [3872/4503] 'SYY' 처리 중...
@@ -10266,7 +7760,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3874/4503] 'TAC' 처리 중...
   -> 'TAC' 데이터 수집 완료.
 [3875/4503] 'TACT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TACT' 데이터 수집 완료.
 [3876/4503] 'TAIT' 처리 중...
   -> 'TAIT' 데이터 수집 완료.
 [3877/4503] 'TAK' 처리 중...
@@ -10292,7 +7786,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3887/4503] 'TASK' 처리 중...
   -> 'TASK' 데이터 수집 완료.
 [3888/4503] 'TATT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TATT' 데이터 수집 완료.
 [3889/4503] 'TAYD' 처리 중...
   -> 'TAYD' 데이터 수집 완료.
 [3890/4503] 'TBBK' 처리 중...
@@ -10326,7 +7820,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3904/4503] 'TCRT' 처리 중...
   -> 'TCRT' 데이터 수집 완료.
 [3905/4503] 'TCRX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TCRX' 데이터 수집 완료.
 [3906/4503] 'TD' 처리 중...
   -> 'TD' 데이터 수집 완료.
 [3907/4503] 'TDC' 처리 중...
@@ -10360,15 +7854,15 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3921/4503] 'TEL' 처리 중...
   -> 'TEL' 데이터 수집 완료.
 [3922/4503] 'TELA' 처리 중...
-  -> 'TELA' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [3923/4503] 'TEN' 처리 중...
-  -> 'TEN' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3924/4503] 'TENB' 처리 중...
   -> 'TENB' 데이터 수집 완료.
 [3925/4503] 'TENX' 처리 중...
   -> 'TENX' 데이터 수집 완료.
 [3926/4503] 'TEO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TEO' 데이터 수집 완료.
 [3927/4503] 'TER' 처리 중...
   -> 'TER' 데이터 수집 완료.
 [3928/4503] 'TERN' 처리 중...
@@ -10392,7 +7886,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3937/4503] 'TG' 처리 중...
   -> 'TG' 데이터 수집 완료.
 [3938/4503] 'TGB' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TGB' 데이터 수집 완료.
 [3939/4503] 'TGEN' 처리 중...
   -> 'TGEN' 데이터 수집 완료.
 [3940/4503] 'TGL' 처리 중...
@@ -10434,7 +7928,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3958/4503] 'TIGR' 처리 중...
   -> 'TIGR' 데이터 수집 완료.
 [3959/4503] 'TIL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TIL' 데이터 수집 완료.
 [3960/4503] 'TILE' 처리 중...
   -> 'TILE' 데이터 수집 완료.
 [3961/4503] 'TIMB' 처리 중...
@@ -10446,7 +7940,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3964/4503] 'TITN' 처리 중...
   -> 'TITN' 데이터 수집 완료.
 [3965/4503] 'TIVC' 처리 중...
-  -> 'TIVC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [3966/4503] 'TIXT' 처리 중...
   -> 주가 데이터가 3년 미만이라 제외합니다.
 [3967/4503] 'TJX' 처리 중...
@@ -10464,7 +7958,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3973/4503] 'TKR' 처리 중...
   -> 'TKR' 데이터 수집 완료.
 [3974/4503] 'TLF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TLF' 데이터 수집 완료.
 [3975/4503] 'TLK' 처리 중...
   -> 'TLK' 데이터 수집 완료.
 [3976/4503] 'TLPH' 처리 중...
@@ -10480,7 +7974,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3981/4503] 'TM' 처리 중...
   -> 'TM' 데이터 수집 완료.
 [3982/4503] 'TMC' 처리 중...
-  -> 'TMC' 데이터 수집 완료.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [3983/4503] 'TMCI' 처리 중...
   -> 'TMCI' 데이터 수집 완료.
 [3984/4503] 'TMDX' 처리 중...
@@ -10514,7 +8008,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [3998/4503] 'TNXP' 처리 중...
   -> 'TNXP' 데이터 수집 완료.
 [3999/4503] 'TNYA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TNYA' 데이터 수집 완료.
 [4000/4503] 'TOI' 처리 중...
   -> 'TOI' 데이터 수집 완료.
 [4001/4503] 'TOL' 처리 중...
@@ -10522,9 +8016,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4002/4503] 'TOMZ' 처리 중...
   -> 'TOMZ' 데이터 수집 완료.
 [4003/4503] 'TONX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TONX' 데이터 수집 완료.
 [4004/4503] 'TOON' 처리 중...
-  -> 'TOON' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4005/4503] 'TOP' 처리 중...
   -> 'TOP' 데이터 수집 완료.
 [4006/4503] 'TOPS' 처리 중...
@@ -10534,7 +8028,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4008/4503] 'TOUR' 처리 중...
   -> 'TOUR' 데이터 수집 완료.
 [4009/4503] 'TOVX' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TOVX' 데이터 수집 완료.
 [4010/4503] 'TOWN' 처리 중...
   -> 'TOWN' 데이터 수집 완료.
 [4011/4503] 'TOYO' 처리 중...
@@ -10544,7 +8038,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4013/4503] 'TPC' 처리 중...
   -> 'TPC' 데이터 수집 완료.
 [4014/4503] 'TPCS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TPCS' 데이터 수집 완료.
 [4015/4503] 'TPG' 처리 중...
   -> 'TPG' 데이터 수집 완료.
 [4016/4503] 'TPH' 처리 중...
@@ -10604,7 +8098,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4043/4503] 'TRST' 처리 중...
   -> 'TRST' 데이터 수집 완료.
 [4044/4503] 'TRT' 처리 중...
-  -> 'TRT' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4045/4503] 'TRTX' 처리 중...
   -> 'TRTX' 데이터 수집 완료.
 [4046/4503] 'TRU' 처리 중...
@@ -10630,7 +8124,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4056/4503] 'TSCO' 처리 중...
   -> 'TSCO' 데이터 수집 완료.
 [4057/4503] 'TSEM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'TSEM' 데이터 수집 완료.
 [4058/4503] 'TSHA' 처리 중...
   -> 'TSHA' 데이터 수집 완료.
 [4059/4503] 'TSI' 처리 중...
@@ -10718,7 +8212,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4100/4503] 'TZOO' 처리 중...
   -> 일부 팩터 값이 누락되어 제외합니다.
 [4101/4503] 'TZUP' 처리 중...
-  -> 'TZUP' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4102/4503] 'U' 처리 중...
   -> 'U' 데이터 수집 완료.
 [4103/4503] 'UA' 처리 중...
@@ -10732,9 +8226,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4107/4503] 'UAN' 처리 중...
   -> 'UAN' 데이터 수집 완료.
 [4108/4503] 'UAVS' 처리 중...
-  -> 'UAVS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4109/4503] 'UBCP' 처리 중...
-  -> 일부 팩터 값이 누락되어 제외합니다.
+  -> 'UBCP' 데이터 수집 완료.
 [4110/4503] 'UBER' 처리 중...
   -> 'UBER' 데이터 수집 완료.
 [4111/4503] 'UBFO' 처리 중...
@@ -10746,7 +8240,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4114/4503] 'UCB' 처리 중...
   -> 'UCB' 데이터 수집 완료.
 [4115/4503] 'UCL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'UCL' 데이터 수집 완료.
 [4116/4503] 'UCTT' 처리 중...
   -> 'UCTT' 데이터 수집 완료.
 [4117/4503] 'UDMY' 처리 중...
@@ -10806,7 +8300,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4144/4503] 'UNB' 처리 중...
   -> 'UNB' 데이터 수집 완료.
 [4145/4503] 'UNCY' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'UNCY' 데이터 수집 완료.
 [4146/4503] 'UNF' 처리 중...
   -> 'UNF' 데이터 수집 완료.
 [4147/4503] 'UNFI' 처리 중...
@@ -10836,7 +8330,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4159/4503] 'UPWK' 처리 중...
   -> 'UPWK' 데이터 수집 완료.
 [4160/4503] 'UPXI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'UPXI' 데이터 수집 완료.
 [4161/4503] 'URBN' 처리 중...
   -> 'URBN' 데이터 수집 완료.
 [4162/4503] 'URG' 처리 중...
@@ -10858,11 +8352,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4170/4503] 'USEA' 처리 중...
   -> 'USEA' 데이터 수집 완료.
 [4171/4503] 'USEG' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'USEG' 데이터 수집 완료.
 [4172/4503] 'USFD' 처리 중...
   -> 'USFD' 데이터 수집 완료.
 [4173/4503] 'USIO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'USIO' 데이터 수집 완료.
 [4174/4503] 'USLM' 처리 중...
   -> 'USLM' 데이터 수집 완료.
 [4175/4503] 'USNA' 처리 중...
@@ -10874,7 +8368,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4178/4503] 'UTG' 처리 중...
   -> 'UTG' 데이터 수집 완료.
 [4179/4503] 'UTHR' 처리 중...
-  -> 'UTHR' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'UTHR' 데이터 수집 완료.
 [4180/4503] 'UTI' 처리 중...
   -> 'UTI' 데이터 수집 완료.
 [4181/4503] 'UTL' 처리 중...
@@ -10908,13 +8402,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4195/4503] 'VALE' 처리 중...
   -> 'VALE' 데이터 수집 완료.
 [4196/4503] 'VALN' 처리 중...
-  -> 'VALN' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4197/4503] 'VALU' 처리 중...
   -> 'VALU' 데이터 수집 완료.
 [4198/4503] 'VANI' 처리 중...
   -> 'VANI' 데이터 수집 완료.
 [4199/4503] 'VBF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VBF' 데이터 수집 완료.
 [4200/4503] 'VBIX' 처리 중...
   -> 'VBIX' 데이터 수집 완료.
 [4201/4503] 'VBNK' 처리 중...
@@ -10940,13 +8434,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4211/4503] 'VEL' 처리 중...
   -> 'VEL' 데이터 수집 완료.
 [4212/4503] 'VELO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VELO' 데이터 수집 완료.
 [4213/4503] 'VEON' 처리 중...
   -> 'VEON' 데이터 수집 완료.
 [4214/4503] 'VERA' 처리 중...
   -> 'VERA' 데이터 수집 완료.
 [4215/4503] 'VERO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VERO' 데이터 수집 완료.
 [4216/4503] 'VERU' 처리 중...
   -> 'VERU' 데이터 수집 완료.
 [4217/4503] 'VERX' 처리 중...
@@ -10956,13 +8450,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4219/4503] 'VFC' 처리 중...
   -> 'VFC' 데이터 수집 완료.
 [4220/4503] 'VFF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VFF' 데이터 수집 완료.
 [4221/4503] 'VGAS' 처리 중...
   -> 'VGAS' 데이터 수집 완료.
 [4222/4503] 'VGM' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VGM' 데이터 수집 완료.
 [4223/4503] 'VGZ' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VGZ' 데이터 수집 완료.
 [4224/4503] 'VHI' 처리 중...
   -> 'VHI' 데이터 수집 완료.
 [4225/4503] 'VIAV' 처리 중...
@@ -10976,7 +8470,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4229/4503] 'VIOT' 처리 중...
   -> 'VIOT' 데이터 수집 완료.
 [4230/4503] 'VIPS' 처리 중...
-  -> 'VIPS' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4231/4503] 'VIR' 처리 중...
   -> 'VIR' 데이터 수집 완료.
 [4232/4503] 'VIRC' 처리 중...
@@ -10992,23 +8486,23 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4237/4503] 'VIVK' 처리 중...
   -> 'VIVK' 데이터 수집 완료.
 [4238/4503] 'VIVS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VIVS' 데이터 수집 완료.
 [4239/4503] 'VKI' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 일부 팩터 값이 누락되어 제외합니다.
 [4240/4503] 'VKQ' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VKQ' 데이터 수집 완료.
 [4241/4503] 'VKTX' 처리 중...
   -> 'VKTX' 데이터 수집 완료.
 [4242/4503] 'VLGEA' 처리 중...
   -> 'VLGEA' 데이터 수집 완료.
 [4243/4503] 'VLN' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VLN' 데이터 수집 완료.
 [4244/4503] 'VLO' 처리 중...
   -> 'VLO' 데이터 수집 완료.
 [4245/4503] 'VLRS' 처리 중...
   -> 'VLRS' 데이터 수집 완료.
 [4246/4503] 'VLT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VLT' 데이터 수집 완료.
 [4247/4503] 'VLY' 처리 중...
   -> 'VLY' 데이터 수집 완료.
 [4248/4503] 'VMAR' 처리 중...
@@ -11022,7 +8516,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4252/4503] 'VMI' 처리 중...
   -> 'VMI' 데이터 수집 완료.
 [4253/4503] 'VMO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VMO' 데이터 수집 완료.
 [4254/4503] 'VNDA' 처리 중...
   -> 'VNDA' 데이터 수집 완료.
 [4255/4503] 'VNET' 처리 중...
@@ -11032,7 +8526,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4257/4503] 'VNT' 처리 중...
   -> 'VNT' 데이터 수집 완료.
 [4258/4503] 'VOC' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VOC' 데이터 수집 완료.
 [4259/4503] 'VOD' 처리 중...
   -> 'VOD' 데이터 수집 완료.
 [4260/4503] 'VOXR' 처리 중...
@@ -11042,7 +8536,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4262/4503] 'VPG' 처리 중...
   -> 'VPG' 데이터 수집 완료.
 [4263/4503] 'VPV' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VPV' 데이터 수집 완료.
 [4264/4503] 'VRA' 처리 중...
   -> 'VRA' 데이터 수집 완료.
 [4265/4503] 'VRAR' 처리 중...
@@ -11056,7 +8550,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4269/4503] 'VREX' 처리 중...
   -> 'VREX' 데이터 수집 완료.
 [4270/4503] 'VRME' 처리 중...
-  -> 'VRME' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4271/4503] 'VRNS' 처리 중...
   -> 'VRNS' 데이터 수집 완료.
 [4272/4503] 'VRNT' 처리 중...
@@ -11098,7 +8592,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4290/4503] 'VTLE' 처리 중...
   -> 'VTLE' 데이터 수집 완료.
 [4291/4503] 'VTN' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'VTN' 데이터 수집 완료.
 [4292/4503] 'VTOL' 처리 중...
   -> 'VTOL' 데이터 수집 완료.
 [4293/4503] 'VTR' 처리 중...
@@ -11114,9 +8608,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4298/4503] 'VUZI' 처리 중...
   -> 'VUZI' 데이터 수집 완료.
 [4299/4503] 'VVOS' 처리 중...
-  -> 'VVOS' 데이터 수집 완료.
-[4300/4503] 'VVR' 처리 중...
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+[4300/4503] 'VVR' 처리 중...
+  -> 'VVR' 데이터 수집 완료.
 [4301/4503] 'VVV' 처리 중...
   -> 'VVV' 데이터 수집 완료.
 [4302/4503] 'VVX' 처리 중...
@@ -11148,7 +8642,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4315/4503] 'WAT' 처리 중...
   -> 'WAT' 데이터 수집 완료.
 [4316/4503] 'WATT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WATT' 데이터 수집 완료.
 [4317/4503] 'WAVE' 처리 중...
   -> 'WAVE' 데이터 수집 완료.
 [4318/4503] 'WB' 처리 중...
@@ -11162,347 +8656,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4322/4503] 'WCN' 처리 중...
   -> 'WCN' 데이터 수집 완료.
 [4323/4503] 'WD' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WD' 데이터 수집 완료.
 [4324/4503] 'WDAY' 처리 중...
   -> 'WDAY' 데이터 수집 완료.
 [4325/4503] 'WDC' 처리 중...
   -> 'WDC' 데이터 수집 완료.
 [4326/4503] 'WDFC' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WDFC' 데이터 수집 완료.
 [4327/4503] 'WDH' 처리 중...
   -> 'WDH' 데이터 수집 완료.
 [4328/4503] 'WDS' 처리 중...
@@ -11532,7 +8692,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4340/4503] 'WFC' 처리 중...
   -> 'WFC' 데이터 수집 완료.
 [4341/4503] 'WFCF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WFCF' 데이터 수집 완료.
 [4342/4503] 'WFG' 처리 중...
   -> 'WFG' 데이터 수집 완료.
 [4343/4503] 'WFRD' 처리 중...
@@ -11546,7 +8706,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4347/4503] 'WHD' 처리 중...
   -> 'WHD' 데이터 수집 완료.
 [4348/4503] 'WHF' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WHF' 데이터 수집 완료.
 [4349/4503] 'WHG' 처리 중...
   -> 'WHG' 데이터 수집 완료.
 [4350/4503] 'WHLR' 처리 중...
@@ -11558,7 +8718,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4353/4503] 'WIA' 처리 중...
   -> 'WIA' 데이터 수집 완료.
 [4354/4503] 'WILC' 처리 중...
-  -> 'WILC' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4355/4503] 'WIT' 처리 중...
   -> 'WIT' 데이터 수집 완료.
 [4356/4503] 'WIW' 처리 중...
@@ -11568,9 +8728,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4358/4503] 'WKEY' 처리 중...
   -> 'WKEY' 데이터 수집 완료.
 [4359/4503] 'WKHS' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WKHS' 데이터 수집 완료.
 [4360/4503] 'WKSP' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WKSP' 데이터 수집 완료.
 [4361/4503] 'WLDN' 처리 중...
   -> 'WLDN' 데이터 수집 완료.
 [4362/4503] 'WLDS' 처리 중...
@@ -11588,7 +8748,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4368/4503] 'WMB' 처리 중...
   -> 'WMB' 데이터 수집 완료.
 [4369/4503] 'WMG' 처리 중...
-  -> 'WMG' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4370/4503] 'WMK' 처리 중...
   -> 'WMK' 데이터 수집 완료.
 [4371/4503] 'WMS' 처리 중...
@@ -11618,7 +8778,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4383/4503] 'WPP' 처리 중...
   -> 'WPP' 데이터 수집 완료.
 [4384/4503] 'WPRT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WPRT' 데이터 수집 완료.
 [4385/4503] 'WRAP' 처리 중...
   -> 'WRAP' 데이터 수집 완료.
 [4386/4503] 'WRB' 처리 중...
@@ -11674,25 +8834,25 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4411/4503] 'WWD' 처리 중...
   -> 'WWD' 데이터 수집 완료.
 [4412/4503] 'WWR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WWR' 데이터 수집 완료.
 [4413/4503] 'WWW' 처리 중...
   -> 'WWW' 데이터 수집 완료.
 [4414/4503] 'WY' 처리 중...
   -> 'WY' 데이터 수집 완료.
 [4415/4503] 'WYY' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'WYY' 데이터 수집 완료.
 [4416/4503] 'XAIR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'XAIR' 데이터 수집 완료.
 [4417/4503] 'XBIO' 처리 중...
   -> 'XBIO' 데이터 수집 완료.
 [4418/4503] 'XBIT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'XBIT' 데이터 수집 완료.
 [4419/4503] 'XCUR' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'XCUR' 데이터 수집 완료.
 [4420/4503] 'XEL' 처리 중...
   -> 'XEL' 데이터 수집 완료.
 [4421/4503] 'XELB' 처리 중...
-  -> 'XELB' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4422/4503] 'XENE' 처리 중...
   -> 'XENE' 데이터 수집 완료.
 [4423/4503] 'XFOR' 처리 중...
@@ -11704,13 +8864,13 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4426/4503] 'XIFR' 처리 중...
   -> 'XIFR' 데이터 수집 완료.
 [4427/4503] 'XLO' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'XLO' 데이터 수집 완료.
 [4428/4503] 'XMTR' 처리 중...
   -> 'XMTR' 데이터 수집 완료.
 [4429/4503] 'XNCR' 처리 중...
   -> 'XNCR' 데이터 수집 완료.
 [4430/4503] 'XNET' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'XNET' 데이터 수집 완료.
 [4431/4503] 'XOM' 처리 중...
   -> 'XOM' 데이터 수집 완료.
 [4432/4503] 'XOMA' 처리 중...
@@ -11736,7 +8896,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4442/4503] 'XRAY' 처리 중...
   -> 'XRAY' 데이터 수집 완료.
 [4443/4503] 'XRTX' 처리 중...
-  -> 'XRTX' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4444/4503] 'XRX' 처리 중...
   -> 'XRX' 데이터 수집 완료.
 [4445/4503] 'XTKG' 처리 중...
@@ -11744,7 +8904,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4446/4503] 'XTLB' 처리 중...
   -> 'XTLB' 데이터 수집 완료.
 [4447/4503] 'XTNT' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'XTNT' 데이터 수집 완료.
 [4448/4503] 'XWEL' 처리 중...
   -> 'XWEL' 데이터 수집 완료.
 [4449/4503] 'XXII' 처리 중...
@@ -11756,7 +8916,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4452/4503] 'XYZ' 처리 중...
   -> 'XYZ' 데이터 수집 완료.
 [4453/4503] 'YALA' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'YALA' 데이터 수집 완료.
 [4454/4503] 'YCBD' 처리 중...
   -> 'YCBD' 데이터 수집 완료.
 [4455/4503] 'YELP' 처리 중...
@@ -11768,7 +8928,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4458/4503] 'YGMZ' 처리 중...
   -> 'YGMZ' 데이터 수집 완료.
 [4459/4503] 'YHGJ' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'YHGJ' 데이터 수집 완료.
 [4460/4503] 'YI' 처리 중...
   -> 'YI' 데이터 수집 완료.
 [4461/4503] 'YJ' 처리 중...
@@ -11786,9 +8946,9 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4467/4503] 'YRD' 처리 중...
   -> 'YRD' 데이터 수집 완료.
 [4468/4503] 'YSG' 처리 중...
-  -> 'YSG' 데이터 수집 완료.
-[4469/4503] 'YTRA' 처리 중...
   -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+[4469/4503] 'YTRA' 처리 중...
+  -> 'YTRA' 데이터 수집 완료.
 [4470/4503] 'YUMC' 처리 중...
   -> 'YUMC' 데이터 수집 완료.
 [4471/4503] 'Z' 처리 중...
@@ -11808,7 +8968,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4478/4503] 'ZENV' 처리 중...
   -> 'ZENV' 데이터 수집 완료.
 [4479/4503] 'ZEO' 처리 중...
-  -> 'ZEO' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4480/4503] 'ZEPP' 처리 중...
   -> 'ZEPP' 데이터 수집 완료.
 [4481/4503] 'ZETA' 처리 중...
@@ -11822,178 +8982,11 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4485/4503] 'ZH' 처리 중...
   -> 'ZH' 데이터 수집 완료.
 [4486/4503] 'ZIM' 처리 중...
-  -> 'ZIM' 데이터 수집 완료.
+  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
 [4487/4503] 'ZIMV' 처리 중...
   -> 주가 데이터가 3년 미만이라 제외합니다.
 [4488/4503] 'ZION' 처리 중...
-HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <title>Yahoo! - Error report</title>
-    <style>
-        /* nn4 hide */ /*/*/
-        body {
-        font: small/ 1.2em arial, helvetica, clean, sans-serif;
-        font: x-small;
-        text-align: center;
-        }
-
-        table {
-        font-size: inherit;
-        font: x-small;
-        }
-
-        html>body {
-        font: 83%/ 1.2em arial, helvetica, clean, sans-serif;
-        }
-
-        input {
-        font-size: 100%;
-        vertical-align: middle;
-        }
-
-        p,form {
-        margin: 0;
-        padding: 0;
-        }
-
-        p {
-        padding-bottom: 6px;
-        margin-bottom: 10px;
-        }
-
-        #doc {
-        width: 48.5em;
-        margin: 0 auto;
-        border: 1px solid #fff;
-        text-align: center;
-        }
-
-        #ygma {
-        text-align: right;
-        margin-bottom: 53px
-        }
-
-        #ygma img {
-        float: left;
-        }
-
-        #ygma div {
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 8px;
-        margin-left: 152px;
-        }
-
-        #bd {
-        clear: both;
-        text-align: left;
-        width: 75%;
-        margin: 0 auto 20px;
-        }
-
-        h1 {
-        font-size: 135%;
-        text-align: center;
-        margin: 0 0 15px;
-        }
-
-        legend {
-        display: none;
-        }
-
-        fieldset {
-        border: 0 solid #fff;
-        padding: .8em 0 .8em 4.5em;
-        }
-
-        form {
-        position: relative;
-        background: #eee;
-        margin-bottom: 15px;
-        border: 1px solid #ccc;
-        border-width: 1px 0;
-        }
-
-        #s1p {
-        width: 15em;
-        margin-right: .1em;
-        }
-
-        form span {
-        position: absolute;
-        left: 70%;
-        top: .8em;
-        }
-
-        form a {
-        font: 78%/ 1.2em arial;
-        display: block;
-        padding-left: .8em;
-        white-space: nowrap;
-        background: url(http://l.yimg.com/a/i/s/bullet.gif)
-        no-repeat left center;
-        }
-
-        form .sep {
-        display: none;
-        }
-
-        .more {
-        text-align: center;
-        }
-
-        #ft {
-        padding-top: 10px;
-        border-top: 1px solid #999;
-        }
-
-        #ft p {
-        text-align: center;
-        font: 78% arial;
-        }
-        /* end nn4 hide */
-    </style>
-</head>
-<body>
-<div id="doc">
-    <div id="ygma">
-        <a href="http://www.yahoo.com">
-            <img src="http://l.yimg.com/a/i/yahoo.gif" width="147"
-                 height="31" border="0" alt="Yahoo!">
-        </a>
-
-        <div>
-            <a href="http://www.yahoo.com">Yahoo!</a>
-            - <a href="http://help.yahoo.com">Help</a>
-        </div>
-    </div>
-    <div id="bd">
-        <h1>HTTP Status 400 - Bad Request</h1>
-
-        <p>
-            <b>type</b>
-            Exception report
-        </p>
-
-        <p>
-            <b>message</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            <b>description</b>
-            <u>Bad Request</u>
-        </p>
-
-        <p>
-            
-        </p>
-    </div>
-</div>
-</body>
-</html>
-
-  -> 'ZION' 처리 중 오류 발생: Expecting value: line 1 column 1 (char 0)
+  -> 'ZION' 데이터 수집 완료.
 [4489/4503] 'ZKIN' 처리 중...
   -> 'ZKIN' 데이터 수집 완료.
 [4490/4503] 'ZLAB' 처리 중...
@@ -12003,7 +8996,7 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4492/4503] 'ZNB' 처리 중...
   -> 'ZNB' 데이터 수집 완료.
 [4493/4503] 'ZNTL' 처리 중...
-  -> 주식이 아니거나 필수 정보(PBR, Beta)가 없어 제외합니다.
+  -> 'ZNTL' 데이터 수집 완료.
 [4494/4503] 'ZS' 처리 중...
   -> 'ZS' 데이터 수집 완료.
 [4495/4503] 'ZTEK' 처리 중...
@@ -12025,5 +9018,5 @@ HTTP Error 400: <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3
 [4503/4503] 'ZYXI' 처리 중...
   -> 'ZYXI' 데이터 수집 완료.
 
-✅ 3. 총 4145개 주식의 데이터 수집 완료. CSV 파일로 저장합니다.
+✅ 3. 총 4310개 주식의 데이터 수집 완료. CSV 파일로 저장합니다.
   -> 'all_stocks_raw_factors.csv' 저장 완료!
