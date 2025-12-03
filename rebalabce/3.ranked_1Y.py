@@ -31,7 +31,8 @@ if not df.empty:
     # 값이 높을수록 좋은 팩터들
     higher_is_better = [
         'Momentum_1Y',
-        'Profitability_ROE'
+        'Profitability_ROE',
+        'Predicted_Return_7D'
     ]
     all_factors = lower_is_better + higher_is_better
     

@@ -3,10 +3,22 @@ import pandas as pd
 import numpy as np
 import time
 import random
+import logging
 from datetime import datetime, timedelta
+try:
+    from prophet import Prophet
+    import warnings
+    warnings.filterwarnings('ignore')
+    logging.getLogger('prophet').setLevel(logging.ERROR)
+    logging.getLogger('cmdstanpy').setLevel(logging.ERROR)
+    logging.getLogger('cmdstanpy.stanfit').setLevel(logging.ERROR)
+    PROPHET_AVAILABLE = True
+except ImportError:
+    PROPHET_AVAILABLE = False
+    print("⚠️ Prophet 미설치: pip install prophet")
 
 # --- 설정값 ---
-INPUT_FILENAME = "filtered_us_ticker.csv"
+INPUT_FILENAME = "rebalabce/filtered_us_ticker.csv"
 OUTPUT_FILENAME = "all_stocks_raw_factors.csv"
 
 print("✅ 파이프라인 2단계: 7가지 팩터 원본 데이터 수집을 시작합니다.")
@@ -115,11 +127,33 @@ if tickers:
             else:
                 asset_growth_val = None # 자산 정보 부족
 
+            # 📌 새로운 팩터: Prophet 딥러닝 모델로 1개월 데이터 기반 향후 7일 예측
+            predicted_return_val = None
+            if PROPHET_AVAILABLE:
+                try:
+                    recent_1m = hist['Close'].iloc[-21:].reset_index()  # 1개월 = 약 21 거래일
+                    if len(recent_1m) >= 21:
+                        df_prophet = pd.DataFrame({
+                            'ds': pd.to_datetime(recent_1m['Date']).dt.tz_localize(None),
+                            'y': recent_1m['Close'].values
+                        })
+                        model = Prophet(daily_seasonality=False, weekly_seasonality=False, 
+                                      yearly_seasonality=False, changepoint_prior_scale=0.05)
+                        model.fit(df_prophet)
+                        future = model.make_future_dataframe(periods=7)
+                        forecast = model.predict(future)
+                        predicted_price = forecast['yhat'].iloc[-1]
+                        current_price = hist['Close'].iloc[-1]
+                        predicted_return_val = (predicted_price / current_price) - 1
+                except Exception as e:
+                    print(f"  -> Prophet 모델로 예측 중 오류 발생: {e}")
+                    predicted_return_val = None
+
             # 모든 데이터가 수집된 경우에만 최종 리스트에 추가
             all_factors = [beta_val, pbr_val, market_cap_val, roe_val, 
                            momentum_1y_val, momentum_3y_val, 
                            volatility_1y_val, volatility_3y_val, 
-                           asset_growth_val]
+                           asset_growth_val, predicted_return_val]
             if all(v is not None for v in all_factors):
                 factor_data.append({
                     "Ticker": ticker,
@@ -131,9 +165,10 @@ if tickers:
                     "Volatility_3Y": volatility_3y_val,
                     "Size_MarketCap": market_cap_val,
                     "Profitability_ROE": roe_val,
-                    "Investment_AssetGrowth": asset_growth_val
+                    "Investment_AssetGrowth": asset_growth_val,
+                    "Predicted_Return_7D": predicted_return_val
                 })
-                print(f"  -> '{ticker}' 데이터 수집 완료.")
+                print(f"  -> '{ticker}' 데이터 수집 완료., Predicted_Return_7D={predicted_return_val:.4f}")
             else:
                 print(f"  -> 일부 팩터 값이 누락되어 제외합니다.")
 

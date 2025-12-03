@@ -33,7 +33,8 @@ if not df.empty:
     higher_is_better = [
         'Momentum_1Y',
         'Momentum_3Y',
-        'Profitability_ROE'
+        'Profitability_ROE',
+        'Predicted_Return_7D'
     ]
     all_factors = lower_is_better + higher_is_better
     
